@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-09 19:10\n"
+"PO-Revision-Date: 2024-04-09 20:20\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -10,10 +10,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "\"{1}\" asked to stop your playback from this server. The device might be busy, restarting, or under maintenance. Try again in a few minutes."
-msgstr "“{1}”要求从该服务器停止播放。 设备可能正在忙，重新启动或维护。 请几分钟后再试一次。"
+msgstr "\"{1}\" 要求停止您在此服务器上的播放。可能是设备正在忙碌中，重新启动中，或者正在维护中。请稍后再试。"
 
 msgid "\"{1}\" asked to stop your playback from this server: {2}"
-msgstr "“{1}”要求从这个服务器停止播放: {2}"
+msgstr "\"{1}\" 要求停止您在此服务器上的播放：{2}"
 
 msgid "'agent' is invalid for the selected library type"
 msgstr "'agent' 对选定的库类型无效"
@@ -508,10 +508,10 @@ msgid "Ask to add a login item for externally mounted drives"
 msgstr "请求为外部安装的驱动器添加一个登录项目"
 
 msgid "Attempt to automatically detect and remove commercials from recordings. This process may take a long time and cause high CPU usage. 'Detect and delete commercials' will delete detected commercial footage from your video files."
-msgstr "试图自动检测并删除录音中的商业广告。这个过程可能需要很长时间，并且会导致CPU使用率很高。检测并删除商业广告 \"将从您的视频文件中删除检测到的商业镜头。"
+msgstr "尝试自动检测并移除录像中的广告。这个过程可能需要很长时间并且会导致 CPU 使用率较高。\"检测并删除广告\" 将从您的视频文件中删除检测到的广告片段。"
 
 msgid "Attempt to automatically detect and remove commercials from recordings. This process may take a long time and cause high CPU usage. 'Detect and delete commercials' will delete detected commercial footage from your video files. 'Detect commercials and mark for skip' will leave the video files intact."
-msgstr "试图自动检测并删除录音中的商业广告。这个过程可能需要很长时间，并且会导致CPU使用率很高。检测并删除商业广告 \"将从您的视频文件中删除检测到的商业镜头。检测商业广告并标记为跳过 \"将使视频文件保持完整。"
+msgstr "尝试自动检测并移除录像中的广告。这个过程可能需要很长时间并且会导致 CPU 使用率较高。\"检测并删除广告\" 将从您的视频文件中删除检测到的广告片段。而 \"检测广告并标记为跳过\" 将保持视频文件不变。"
 
 msgid "Audience Rating"
 msgstr "观众评分"
@@ -1858,7 +1858,7 @@ msgid "New and Repeat Airings"
 msgstr "新的和重复的播放"
 
 msgid "New season premieres will always appear no matter how many weeks have passed since watching."
-msgstr "无论距离您上次观看过了多少周，在新季首播时都会显示。"
+msgstr "无论距离您上次观看过了多少周，新一季首播时都会显示。"
 
 msgid "Newest first"
 msgstr "最新的优先"
@@ -3256,7 +3256,7 @@ msgid "When scanning this library, use local posters and artwork if present."
 msgstr "扫描此媒体库时，如果存在本地海报和艺术插图则使用本地文件。"
 
 msgid "When set to \"Required\", some unencrypted connections (originating from the Media Server computer) will still be allowed and apps that don't support secure connections will not be able to connect at all."
-msgstr "如果设置为“必需”，仍允许使用某些未加密连接（来自媒体服务器计算机），但根本无法连接不支持安全连接的应用程序。"
+msgstr "当设置为 \"需要\" 时，一些未加密的连接（源自媒体服务器计算机）仍然会被允许，而不支持安全连接的应用程序将无法连接。"
 
 msgid "Where to automatically obtain album cover art."
 msgstr "自动获取专辑封面。"
