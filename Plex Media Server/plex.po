@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-09 20:20\n"
+"PO-Revision-Date: 2024-04-10 10:58\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -16,13 +16,13 @@ msgid "\"{1}\" asked to stop your playback from this server: {2}"
 msgstr "\"{1}\" 要求停止您在此服务器上的播放：{2}"
 
 msgid "'agent' is invalid for the selected library type"
-msgstr "'agent' 对选定的库类型无效"
+msgstr "'代理' 对选择的资料库类型无效"
 
 msgid "'agent' is missing or invalid"
-msgstr "“代理”缺失或无效"
+msgstr "'代理' 缺失或无效"
 
 msgid "'language' is invalid"
-msgstr "'language' 无效"
+msgstr "'语言' 无效"
 
 msgid "1"
 msgstr "1"
@@ -152,11 +152,11 @@ msgstr "演员"
 
 msgctxt "Actor"
 msgid "More with {1}"
-msgstr "更多 {1}"
+msgstr "更多与 {1} 相关的内容"
 
 msgctxt "Actor"
 msgid "Top Movies with {1}"
-msgstr "具有 {1} 的热门电影"
+msgstr "与 {1} 相关的热门电影"
 
 msgid "Actors"
 msgstr "演员"
@@ -222,7 +222,7 @@ msgid "Album Format"
 msgstr "专辑格式"
 
 msgid "Album Genre"
-msgstr "专辑流派"
+msgstr "专辑类型"
 
 msgid "Album Last Played"
 msgstr "专辑最近播放"
@@ -360,10 +360,10 @@ msgid "Analyze audio tracks for loudness"
 msgstr "分析音轨的响度"
 
 msgid "Analyze audio tracks for sonic features"
-msgstr "分析音轨的声音特征"
+msgstr "分析曲目的声波特征"
 
 msgid "Analyze tracks for sonic features."
-msgstr "分析音轨的声音特征。"
+msgstr "分析曲目的声波特征。"
 
 msgid "Analyzing media bundles"
 msgstr "正在分析媒体包"
@@ -447,37 +447,37 @@ msgid "April"
 msgstr "四月"
 
 msgid "Artist"
-msgstr "艺术家"
+msgstr "艺人"
 
 msgctxt "Artist"
 msgid "More Albums By {1}"
-msgstr "更多专辑由{1}"
+msgstr "{1} 的更多专辑"
 
 msgctxt "Artist"
 msgid "More by {1}"
-msgstr "更多{1}作品"
+msgstr "{1} 的更多作品"
 
 msgid "Artist Bios"
 msgstr "艺人简介"
 
 msgid "Artist Collection"
-msgstr "艺人收藏集"
+msgstr "艺人合集"
 
 msgid "Artist Country"
-msgstr "艺人国家"
+msgstr "艺人国籍"
 
 msgid "Artist Genre"
-msgstr "艺人流派"
+msgstr "艺人类型"
 
 msgid "Artist Last Played"
 msgstr "最后播放的艺人"
 
 msgid "Artist Mood"
-msgstr "艺人情感"
+msgstr "艺人氛围"
 
 msgctxt "Artist Radio"
 msgid "{1} Radio"
-msgstr "{1} 广播电台"
+msgstr "{1} 电台"
 
 msgid "Artist Rating"
 msgstr "艺人评分"
@@ -493,7 +493,7 @@ msgid "Artist Title"
 msgstr "艺人名称"
 
 msgid "Artists"
-msgstr "作者"
+msgstr "艺人"
 
 msgid "Artists You Might Like"
 msgstr "您可能喜欢的艺人"
@@ -587,7 +587,7 @@ msgid "By Cluster"
 msgstr "按群集"
 
 msgid "By Collection"
-msgstr "按选集"
+msgstr "按合集"
 
 msgid "By Content Rating"
 msgstr "按内容分级"
@@ -719,7 +719,7 @@ msgid "Client-specific configuration settings for the DLNA server."
 msgstr "DLNA 服务器的客户特定的配置设置。"
 
 msgid "Collection"
-msgstr "选集"
+msgstr "合集"
 
 msgctxt "Collection"
 msgid "{1} Collection"
@@ -920,7 +920,7 @@ msgstr "{1} 中的照片"
 
 msgctxt "Decade"
 msgid "Top Albums from {1}s"
-msgstr "来源于 {1} 的热门专辑"
+msgstr "{1} 年代的热门专辑"
 
 msgctxt "Decade"
 msgid "Videos from the {1}s"
@@ -1010,11 +1010,11 @@ msgstr "导演"
 
 msgctxt "Director"
 msgid "More by {1}"
-msgstr "更多由 {1}"
+msgstr "{1} 的更多作品"
 
 msgctxt "Director"
 msgid "Top Movies by {1}"
-msgstr "来自 {1} 的热门电影"
+msgstr "{1} 的热门电影"
 
 msgid "Directors"
 msgstr "目录"
@@ -1150,7 +1150,7 @@ msgid "Enable server support for IPv6"
 msgstr "启动支持 IPv6 的服务器"
 
 msgid "Enable smart shuffling on artists and smart music playlists"
-msgstr "开启智能随机音乐家播放和智能音乐播放列表"
+msgstr "启用艺人和智能音乐播放列表的智能随机播放功能"
 
 msgid "Enable the DLNA server"
 msgstr "启动 DLNA  服务器"
@@ -1378,11 +1378,11 @@ msgid "Generating video preview thumbnails"
 msgstr "生成视频预览缩略图"
 
 msgid "Genre"
-msgstr "流派"
+msgstr "类型"
 
 msgctxt "Genre"
 msgid "More in {1}"
-msgstr "更多{1}"
+msgstr "更多 {1}"
 
 msgctxt "Genre"
 msgid "Top Movies in {1}"
@@ -1390,10 +1390,10 @@ msgstr "{1} 中的热门电影"
 
 msgctxt "Genre"
 msgid "{1} Radio"
-msgstr "{1} 广播电台"
+msgstr "{1} 电台"
 
 msgid "Genre Radio"
-msgstr "流派广播"
+msgstr "类型电台"
 
 msgid "Genres"
 msgstr "类型"
@@ -1435,7 +1435,7 @@ msgid "Has the user accepted the EULA"
 msgstr "使用户接受了 EULA"
 
 msgid "Haven't Played in (Time)"
-msgstr "(Time)尚未播放"
+msgstr "已经（多久）未播放"
 
 msgid "Haven't played in {1} months"
 msgstr "已 {1} 个月未播放"
@@ -1583,7 +1583,7 @@ msgstr "标签"
 
 msgctxt "Label"
 msgid "More from {1}"
-msgstr "更多{1}制作"
+msgstr "更多来自 {1} 的专辑"
 
 msgid "Labels"
 msgstr "标签"
@@ -1777,22 +1777,22 @@ msgid "Mood Radio"
 msgstr "情感电台"
 
 msgid "More by (Artist)"
-msgstr "更多 (Artist) 作品"
+msgstr "（艺人）的更多专辑"
 
 msgid "More from (Label)"
-msgstr "更多(Label)制作"
+msgstr "更多来自（唱片公司）的专辑"
 
 msgid "More from (Network)"
-msgstr "更多来自(Network)"
+msgstr "更多来自（播出平台）的电视节目"
 
 msgid "More in (Genre)"
-msgstr "更多(Genre)"
+msgstr "更多（类型）"
 
 msgid "Most Played"
 msgstr "最多播放"
 
 msgid "Most Played in (Month)"
-msgstr "播放次数最多(Month)"
+msgstr "在（月份）播放最多"
 
 msgid "Most Popular Tracks"
 msgstr "最热单曲"
@@ -2044,13 +2044,13 @@ msgid "Photos"
 msgstr "照片"
 
 msgid "Photos from (Day or Month)"
-msgstr "照片来自(Day or Month)"
+msgstr "（日期或月份）的照片"
 
 msgid "Photos from (Decade)"
-msgstr "照片来自(Decade)"
+msgstr "（年代）的照片"
 
 msgid "Photos from (Year)"
-msgstr "照片来自(Year)"
+msgstr "（年份）的照片"
 
 msgid "Place"
 msgstr "地点"
@@ -2516,10 +2516,10 @@ msgid "Show similar free to watch movies and related tracks and albums from TIDA
 msgstr "显示相似免费内容以观看TIDAL的电影以及相关的曲目和专辑。"
 
 msgid "Show suggestions and additional albums from TIDAL, and include TIDAL tracks in Artist Radio."
-msgstr "显示来自TIDAL的建议和其他专辑，并在艺人电台中包含TIDAL曲目。"
+msgstr "显示来自 TIDAL 的推荐和其他专辑，并在艺人电台中包含来自 TIDAL 的曲目。"
 
 msgid "Show suggestions and additional albums from libraries shared with you, and include shared tracks in Artist Radio."
-msgstr "显示与您共享媒体库中的建议和其他相册，并在艺人电台中包含共享曲目。"
+msgstr "显示来自与您共享的音乐资料库的推荐和其他专辑，并在艺人电台中包含共享的曲目。"
 
 msgid "Show this collection and its items"
 msgstr "显示此合集及其项目"
@@ -2540,7 +2540,7 @@ msgid "Shutter Speed"
 msgstr "快门速度"
 
 msgid "Similar Artists"
-msgstr "同类艺术家"
+msgstr "相似艺人"
 
 msgid "Similar Movies in Free To Watch"
 msgstr "免费电影中的相似电影"
@@ -2564,16 +2564,16 @@ msgid "Smart shuffling prefers highly rated, popular and less recently heard tra
 msgstr "智能随机播放会优先选择评价好、流行且近期没有播放过的音乐。"
 
 msgid "Sonic Analysis"
-msgstr "声音分析"
+msgstr "声波分析"
 
 msgid "Sonic analysis allows various features, such as track radio. It can take a long time to complete when analyzing many tracks, and cause high CPU usage."
-msgstr "声音分析允许多种功能，如音乐电台。分析大量音轨时可能需要很长时间才能完成，并导致较高的CPU使用率。"
+msgstr "声波分析提供了多种功能，比如曲目电台。在处理大量曲目时，分析可能需要很长时间，同时也会导致 CPU 使用率升高。"
 
 msgid "Sonically Similar Albums"
-msgstr "声音相似专辑"
+msgstr "声波相似的专辑"
 
 msgid "Sonically Similar Artists"
-msgstr "声音相似的艺人"
+msgstr "声波相似的艺人"
 
 msgid "Sorry, there is no Plex Mix available for this track."
 msgstr "抱歉，当前单曲没有可用的Plex Mix"
@@ -2631,7 +2631,7 @@ msgstr "制片公司"
 
 msgctxt "Studio"
 msgid "More from {1}"
-msgstr "更多来自于{1}"
+msgstr "更多来自 {1} 的作品"
 
 msgid "Style"
 msgstr "风格"
@@ -2752,7 +2752,7 @@ msgid "The butler performed loudness analysis on {1} albums."
 msgstr "管家已为{1}个专辑进行了音频响度分析。"
 
 msgid "The butler performed sonic analysis on {1} batches of albums."
-msgstr "管家已为 {1} 批专辑进行了声音分析。"
+msgstr "管家对 {1} 张专辑进行了声波分析。"
 
 msgid "The butler processed {1} files for autoTag generation."
 msgstr "管家在{1}个文件上自动生成了标签。"
@@ -2974,16 +2974,16 @@ msgid "Title"
 msgstr "标题"
 
 msgid "Top Albums from (Genre)"
-msgstr "(Genre)中的热门专辑"
+msgstr "（类型）中的热门专辑"
 
 msgid "Top Albums from (Year)"
-msgstr "(Year)热门专辑"
+msgstr "（年份）的热门专辑"
 
 msgid "Top Movies by (Actor or Director)"
-msgstr "(Actor or Director)的热门影片"
+msgstr "（演员或导演）的热门电影"
 
 msgid "Top Movies in (Genre)"
-msgstr "(Genre)中的热门影片"
+msgstr "（类型）中的热门电影"
 
 msgid "Top Rated TV"
 msgstr "评分最高的电视"
@@ -3262,7 +3262,7 @@ msgid "Where to automatically obtain album cover art."
 msgstr "自动获取专辑封面。"
 
 msgid "Where to automatically obtain genres for artists and albums."
-msgstr "自动获取艺人和专辑流派等信息。"
+msgstr "艺人和专辑类型信息的自动获取来源。"
 
 msgid "Which user's activity (e.g. user rating, play count, or watched status) is used for the collection filtering."
 msgstr "哪个用户的活动（如用户评分、播放次数或观看状态）被用于合集筛选。"
@@ -3287,7 +3287,7 @@ msgstr "本月在 {1}"
 
 msgctxt "Year"
 msgid "Top Albums from {1}"
-msgstr "来源于 {1} 的热门专辑"
+msgstr "{1} 的热门专辑"
 
 msgctxt "Year"
 msgid "Videos from {1}"
