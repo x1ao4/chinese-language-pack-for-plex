@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-10 10:58\n"
+"PO-Revision-Date: 2024-04-10 17:39\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -10,19 +10,19 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "\"{1}\" asked to stop your playback from this server. The device might be busy, restarting, or under maintenance. Try again in a few minutes."
-msgstr "\"{1}\" 要求停止您在此服务器上的播放。可能是设备正在忙碌中，重新启动中，或者正在维护中。请稍后再试。"
+msgstr "“{1}” 要求停止您在此服务器上的播放。可能是设备正在忙碌中，重新启动中，或者正在维护中。请稍后再试。"
 
 msgid "\"{1}\" asked to stop your playback from this server: {2}"
-msgstr "\"{1}\" 要求停止您在此服务器上的播放：{2}"
+msgstr "“{1}” 要求停止您在此服务器上的播放：{2}"
 
 msgid "'agent' is invalid for the selected library type"
-msgstr "'代理' 对选择的资料库类型无效"
+msgstr "‘代理’ 对选择的资料库类型无效"
 
 msgid "'agent' is missing or invalid"
-msgstr "'代理' 缺失或无效"
+msgstr "‘代理’ 缺失或无效"
 
 msgid "'language' is invalid"
-msgstr "'语言' 无效"
+msgstr "‘语言’ 无效"
 
 msgid "1"
 msgstr "1"
@@ -204,7 +204,7 @@ msgid "Album"
 msgstr "专辑"
 
 msgid "Album Art"
-msgstr "艺术专辑"
+msgstr "专辑图片"
 
 msgid "Album Artist"
 msgstr "专辑艺人"
@@ -213,7 +213,7 @@ msgid "Album Collection"
 msgstr "专辑合集"
 
 msgid "Album Critic Rating"
-msgstr "专辑评论家评分"
+msgstr "专辑乐评人评分"
 
 msgid "Album Decade"
 msgstr "专辑年代"
@@ -228,7 +228,7 @@ msgid "Album Last Played"
 msgstr "专辑最近播放"
 
 msgid "Album Mood"
-msgstr "专辑情感"
+msgstr "专辑氛围"
 
 msgid "Album Plays"
 msgstr "专辑播放"
@@ -237,7 +237,7 @@ msgid "Album Rating"
 msgstr "专辑评分"
 
 msgid "Album Reviews and Critic Ratings"
-msgstr "专辑评论和评分"
+msgstr "专辑评论和乐评人评分"
 
 msgid "Album Source"
 msgstr "专辑来源"
@@ -357,7 +357,7 @@ msgid "Analyze and tag photos based on their content. Note: a Plex Pass is requi
 msgstr "根据照片内容分析并且添加标签。注意：需要 Plex 通行证订阅。这个资料库的照片缩略图将会暂时共享给第三方合作商以作分析。"
 
 msgid "Analyze audio tracks for loudness"
-msgstr "分析音轨的响度"
+msgstr "分析曲目的音量"
 
 msgid "Analyze audio tracks for sonic features"
 msgstr "分析曲目的声波特征"
@@ -487,7 +487,7 @@ msgstr "艺人风格"
 
 msgctxt "Artist TV"
 msgid "{1} TV"
-msgstr "{1} 电视"
+msgstr "{1} 电视台"
 
 msgid "Artist Title"
 msgstr "艺人名称"
@@ -816,7 +816,7 @@ msgid "Credits markers can be generated locally and/or retrieved via an online d
 msgstr "片尾名单标记可以在本地生成或通过在线数据库检索。在线数据库可能并不总是存在片尾名单标记，如果这个偏好被设置为 \"两者\"，那么任何本地检测到的片尾名单标记都会被匿名地提交回在线数据库，以供将来使用。"
 
 msgid "Critic Rating"
-msgstr "评论家评分"
+msgstr "影评人评分"
 
 msgid "Custom"
 msgstr "自定义"
@@ -916,7 +916,7 @@ msgstr "年代"
 
 msgctxt "Decade"
 msgid "Photos from the {1}s"
-msgstr "{1} 中的照片"
+msgstr "{1} 年代的照片"
 
 msgctxt "Decade"
 msgid "Top Albums from {1}s"
@@ -924,7 +924,7 @@ msgstr "{1} 年代的热门专辑"
 
 msgctxt "Decade"
 msgid "Videos from the {1}s"
-msgstr "{1} 中的视频"
+msgstr "{1} 年代的视频"
 
 msgctxt "Decade"
 msgid "{1}s Radio"
@@ -1312,7 +1312,7 @@ msgid "Find extras"
 msgstr "寻找花絮"
 
 msgid "Find lyrics for tracks in this library automatically."
-msgstr "自动查找该库中曲目的歌词"
+msgstr "自动为此资料库中的曲目查找歌词。"
 
 msgid "Find trailers and extras automatically (Plex Pass required)"
 msgstr "自动寻找预告片及其他花絮内容（需要 Plex 通行证）"
@@ -1411,7 +1411,7 @@ msgid "Group albums by type"
 msgstr "按类型为专辑分组"
 
 msgid "Group into LPs, EPs & Singles, Compilations, Live Albums, Demos and Remixes."
-msgstr "分为 LP、EP 和单曲、合辑、现场专辑、演示和混音。"
+msgstr "分为 LP、EP 和单曲、合辑、现场专辑、Demo 和混音。"
 
 msgid "Guide"
 msgstr "导引"
@@ -1668,7 +1668,7 @@ msgid "Live TV & DVR"
 msgstr "电视直播和数字录像机"
 
 msgid "Load album reviews and critic ratings from the cloud. Might make you reconsider your taste in music."
-msgstr "从云端加载专辑评论和评论家评分。也许您会喜欢新的音乐风格。"
+msgstr "从云端加载专辑评论和乐评人评分。也许会让您重新审视自己对音乐的喜好。"
 
 msgid "Load artist biography data from the cloud."
 msgstr "从云端加载艺人简介数据。"
@@ -1677,7 +1677,7 @@ msgid "Load concert data for artists, in case you leave the house."
 msgstr "在您离家时，加载艺人的演唱会数据。"
 
 msgid "Load popular track data, which powers radio stations and the popular tracks area."
-msgstr "加载流行曲目数据，为电台和流行曲目版块提供支持。"
+msgstr "加载热门曲目数据，为电台和热门曲目版块提供支持。"
 
 msgid "Local Files Only"
 msgstr "只加载文件"
@@ -1692,7 +1692,7 @@ msgid "Logging of the Plex Media Server memory use and the system total used mem
 msgstr "在 Plex Media Server日志中记录 Plex Media Server的内存使用情况和系统使用的内存总量。需要重新启动服务器才能生效。"
 
 msgid "Loudness analysis allows various features, such as loudness leveling and smart transitions. It can take a long time to complete when analyzing many tracks, and cause high CPU usage."
-msgstr "响度分析允许各种功能，如响度调平和智能转换。分析多个轨道时可能需要很长时间才能完成，并导致CPU使用率过高。"
+msgstr "音量分析可为多个功能提供支持，比如音量平衡和智能过渡。在处理大量曲目时，分析可能需要很长时间，同时也会导致 CPU 使用率升高。"
 
 msgid "Low quality (240p)"
 msgstr "低品质(240p)"
@@ -1795,7 +1795,7 @@ msgid "Most Played in (Month)"
 msgstr "在（月份）播放最多"
 
 msgid "Most Popular Tracks"
-msgstr "最热单曲"
+msgstr "最热曲目"
 
 msgid "Movie pre-roll video"
 msgstr "电影预告"
@@ -2510,10 +2510,10 @@ msgid "Show in dock"
 msgstr "显示在停靠台"
 
 msgid "Show related tracks and albums from TIDAL."
-msgstr "显示TIDAL服务器上相关的曲目和专辑。"
+msgstr "显示来自 TIDAL 的相关曲目和专辑。"
 
 msgid "Show similar free to watch movies and related tracks and albums from TIDAL."
-msgstr "显示相似免费内容以观看TIDAL的电影以及相关的曲目和专辑。"
+msgstr "显示相似的免费电影以及来自 TIDAL 的相关曲目和专辑。"
 
 msgid "Show suggestions and additional albums from TIDAL, and include TIDAL tracks in Artist Radio."
 msgstr "显示来自 TIDAL 的推荐和其他专辑，并在艺人电台中包含来自 TIDAL 的曲目。"
@@ -2540,7 +2540,7 @@ msgid "Shutter Speed"
 msgstr "快门速度"
 
 msgid "Similar Artists"
-msgstr "相似艺人"
+msgstr "相似的艺人"
 
 msgid "Similar Movies in Free To Watch"
 msgstr "免费电影中的相似电影"
@@ -2561,13 +2561,13 @@ msgid "Slower"
 msgstr "较慢"
 
 msgid "Smart shuffling prefers highly rated, popular and less recently heard tracks."
-msgstr "智能随机播放会优先选择评价好、流行且近期没有播放过的音乐。"
+msgstr "智能随机播放更倾向于播放评分高、热门且最近较少播放的曲目。"
 
 msgid "Sonic Analysis"
 msgstr "声波分析"
 
 msgid "Sonic analysis allows various features, such as track radio. It can take a long time to complete when analyzing many tracks, and cause high CPU usage."
-msgstr "声波分析提供了多种功能，比如曲目电台。在处理大量曲目时，分析可能需要很长时间，同时也会导致 CPU 使用率升高。"
+msgstr "声波分析可为多个功能提供支持，比如曲目电台。在处理大量曲目时，分析可能需要很长时间，同时也会导致 CPU 使用率升高。"
 
 msgid "Sonically Similar Albums"
 msgstr "声波相似的专辑"
@@ -2579,7 +2579,7 @@ msgid "Sorry, there is no Plex Mix available for this track."
 msgstr "抱歉，当前单曲没有可用的Plex Mix"
 
 msgid "Soundtracks"
-msgstr "原声唱片"
+msgstr "原声带"
 
 msgid "Source"
 msgstr "源"
@@ -2749,7 +2749,7 @@ msgid "The butler performed deep analysis on {1} files."
 msgstr "管家已对 {1} 个文件执行深度分析。"
 
 msgid "The butler performed loudness analysis on {1} albums."
-msgstr "管家已为{1}个专辑进行了音频响度分析。"
+msgstr "管家已对 {1} 张专辑进行了音量分析。"
 
 msgid "The butler performed sonic analysis on {1} batches of albums."
 msgstr "管家对 {1} 张专辑进行了声波分析。"
@@ -3022,10 +3022,10 @@ msgid "Track Title"
 msgstr "曲目标题"
 
 msgid "Tracks"
-msgstr "音轨"
+msgstr "曲目"
 
 msgid "Tracks from {1}"
-msgstr "来自{1}的音轨"
+msgstr "来自 {1} 的曲目"
 
 msgid "Trailers for Upcoming Blu-ray Releases"
 msgstr "即将发布的蓝光预告片"
@@ -3256,10 +3256,10 @@ msgid "When scanning this library, use local posters and artwork if present."
 msgstr "扫描此媒体库时，如果存在本地海报和艺术插图则使用本地文件。"
 
 msgid "When set to \"Required\", some unencrypted connections (originating from the Media Server computer) will still be allowed and apps that don't support secure connections will not be able to connect at all."
-msgstr "当设置为 \"需要\" 时，一些未加密的连接（源自媒体服务器计算机）仍然会被允许，而不支持安全连接的应用程序将无法连接。"
+msgstr "当设置为 “需要” 时，一些未加密的连接（源自媒体服务器计算机）仍然会被允许，而不支持安全连接的应用程序将无法连接。"
 
 msgid "Where to automatically obtain album cover art."
-msgstr "自动获取专辑封面。"
+msgstr "专辑封面图片的自动获取来源。"
 
 msgid "Where to automatically obtain genres for artists and albums."
 msgstr "艺人和专辑类型信息的自动获取来源。"
