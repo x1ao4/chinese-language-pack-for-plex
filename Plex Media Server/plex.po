@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-10 17:39\n"
+"PO-Revision-Date: 2024-04-12 08:58\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -213,7 +213,7 @@ msgid "Album Collection"
 msgstr "专辑合集"
 
 msgid "Album Critic Rating"
-msgstr "专辑乐评人评分"
+msgstr "专辑评论家评分"
 
 msgid "Album Decade"
 msgstr "专辑年代"
@@ -237,7 +237,7 @@ msgid "Album Rating"
 msgstr "专辑评分"
 
 msgid "Album Reviews and Critic Ratings"
-msgstr "专辑评论和乐评人评分"
+msgstr "专辑评论和评论家评分"
 
 msgid "Album Source"
 msgstr "专辑来源"
@@ -535,10 +535,10 @@ msgid "Automatic"
 msgstr "自动的"
 
 msgid "Automatic Tags"
-msgstr "自动生成的标签"
+msgstr "自动标签"
 
 msgid "Automatically create collections when there are at least the selected number of items for an available collection. Changing this value will have no effect on any existing collections."
-msgstr "如果合集有可生成的项目数，则自动生成合集。 对这个值的改变不会影响已经生成的合集。"
+msgstr "当属于某个合集的项目数量达到所选值时，自动创建合集。更改此值不会影响任何现有的合集。"
 
 msgid "Automatically during scheduled maintenance"
 msgstr "在计划维护期间自动执行"
@@ -569,7 +569,7 @@ msgid "Bitrate"
 msgstr "比特率"
 
 msgid "Both Plex Music and Local Files"
-msgstr "Plex音乐和本地文件"
+msgstr "Plex Music 和本地文件"
 
 msgid "Browse"
 msgstr "浏览"
@@ -674,7 +674,7 @@ msgid "Chapter"
 msgstr "章节"
 
 msgid "Chapter thumbnails provide images in the chapter view on supported apps. They can take a long time to generate and consume additional disk space."
-msgstr "章节缩略图可在支持的应用程序中提供章节视图图像。创建这些缩略图需要较长时间，并会占用更多的磁盘空间。"
+msgstr "章节缩略图可为支持的应用程序提供章节画面。生成缩略图可能需要较长时间，并会消耗额外的磁盘空间。"
 
 msgid "Chapter {1}"
 msgstr "第 {1} 章"
@@ -726,7 +726,7 @@ msgid "{1} Collection"
 msgstr "{1} 合集"
 
 msgid "Collection Mode"
-msgstr "收集模式"
+msgstr "合集模式"
 
 msgid "Collection filtering based on"
 msgstr "通过……筛选合集"
@@ -813,10 +813,10 @@ msgid "Create a backup copy of the server's database in the configured backup di
 msgstr "在已配置的备份目录中创建一个服务器数据库备份"
 
 msgid "Credits markers can be generated locally and/or retrieved via an online database. Online markers may not always exist, if this preference is set to 'both' then any locally detected markers are submitted anonymously back to the online database for future use."
-msgstr "片尾名单标记可以在本地生成或通过在线数据库检索。在线数据库可能并不总是存在片尾名单标记，如果这个偏好被设置为 \"两者\"，那么任何本地检测到的片尾名单标记都会被匿名地提交回在线数据库，以供将来使用。"
+msgstr "片尾标记可以在本地生成，也可以通过在线数据库获取。在线标记并不总是存在。如果设置为 “同时使用” ，那么任何本地检测到的标记都会被匿名提交到在线数据库，以供将来使用。"
 
 msgid "Critic Rating"
-msgstr "影评人评分"
+msgstr "评论家评分"
 
 msgid "Custom"
 msgstr "自定义"
@@ -873,7 +873,7 @@ msgid "Database error retrieving sync data"
 msgstr "数据库出错误在纠正同步数据时"
 
 msgid "Date Added"
-msgstr "日期已添加"
+msgstr "添加日期"
 
 msgid "Date Album Added"
 msgstr "专辑添加日期"
@@ -882,7 +882,7 @@ msgid "Date Album Released"
 msgstr "专辑发行日期"
 
 msgid "Date Artist Added"
-msgstr "艺人添加时间"
+msgstr "艺人添加日期"
 
 msgid "Date Episode Added"
 msgstr "剧集添加日期"
@@ -897,7 +897,7 @@ msgid "Date Shared"
 msgstr "共享日期"
 
 msgid "Date Show Added"
-msgstr "显示添加日期"
+msgstr "节目添加日期"
 
 msgid "Date Taken"
 msgstr "拍摄日期"
@@ -985,10 +985,10 @@ msgid "Detecting intros"
 msgstr "正在分析片头"
 
 msgid "Detects movie and episode end credits."
-msgstr "检测电影及剧集片尾名单"
+msgstr "检测电影和电视节目的片尾。"
 
 msgid "Detects show intros, exposing the 'Skip Intro' button in clients."
-msgstr "检测剧集的片头片段，并在客户端中显示”跳过片头“。"
+msgstr "检测电视节目的片头，并在客户端中显示 “跳过片头” 。"
 
 msgid "Device"
 msgstr "设备"
@@ -1132,7 +1132,7 @@ msgid "Enable Relay"
 msgstr "启用中转"
 
 msgid "Enable credits detection"
-msgstr "启用片尾名单检测"
+msgstr "启用片尾检测"
 
 msgid "Enable iPhoto channel"
 msgstr "启动 iPhone 频道"
@@ -1141,7 +1141,7 @@ msgid "Enable iTunes plugin"
 msgstr "启用 iTunes 插件"
 
 msgid "Enable intro detection"
-msgstr "激活以启用简介检测"
+msgstr "启用片头检测"
 
 msgid "Enable local network discovery (GDM)"
 msgstr "启用本地网络发现功能（GDM）"
@@ -1159,7 +1159,7 @@ msgid "Enable the DLNA server to report timelines for video play activity."
 msgstr "启用 DLNA 服务器以报告视频播放活动的时间表。"
 
 msgid "Enable video preview thumbnails"
-msgstr "启用视频预览缩略图"
+msgstr "启用预览缩略图"
 
 msgid "Encountered lack of permission on the remote while grabbing media"
 msgstr "抓取媒体时遇到远程权限不足"
@@ -1306,7 +1306,7 @@ msgid "File size"
 msgstr "文件大小"
 
 msgid "Find Lyrics"
-msgstr "寻找歌词"
+msgstr "查找歌词"
 
 msgid "Find extras"
 msgstr "寻找花絮"
@@ -1348,7 +1348,7 @@ msgid "Generate chapter thumbnails"
 msgstr "生成章节缩略图"
 
 msgid "Generate credits markers for items in this library when enabled in server settings."
-msgstr "在服务器设置中启用后，将为此库中的项目生成片尾名单标记。"
+msgstr "在服务器设置中启用了该功能时，为此资料库中的项目生成片尾标记。"
 
 msgid "Generate credits markers for this item."
 msgstr "为此项目生成片尾标记。"
@@ -1357,25 +1357,25 @@ msgid "Generate credits video markers"
 msgstr "生成片尾标记"
 
 msgid "Generate intro detection for items in this library when enabled in server settings."
-msgstr "当服务器设置选项激活后将生成本媒体库中的项目简介数据。"
+msgstr "在服务器设置中启用了该功能时，为此资料库中的项目生成片头标记。"
 
 msgid "Generate intro video markers"
-msgstr "生成片头片段标记"
+msgstr "生成片头标记"
 
 msgid "Generate video preview thumbnails"
-msgstr "生成视频预览缩略图"
+msgstr "生成预览缩略图"
 
 msgid "Generate video preview thumbnails for items in this library when enabled in server settings."
-msgstr "在服务器设置中启用后，将为此库中的项目生成视频预览缩略图。"
+msgstr "在服务器设置中启用了该功能时，为此资料库中的项目生成预览缩略图。"
 
 msgid "Generating loudness data"
-msgstr "生成声音数据"
+msgstr "生成音量数据"
 
 msgid "Generating video chapter thumbnails"
-msgstr "生成视频章节预览缩略图"
+msgstr "生成章节缩略图"
 
 msgid "Generating video preview thumbnails"
-msgstr "生成视频预览缩略图"
+msgstr "生成预览缩略图"
 
 msgid "Genre"
 msgstr "类型"
@@ -1450,13 +1450,13 @@ msgid "Hide collection"
 msgstr "隐藏合集"
 
 msgid "Hide for single-season series"
-msgstr "隐藏单季系列"
+msgstr "为只有一季的电视节目隐藏"
 
 msgid "Hide items in this collection"
-msgstr "隐藏此合集中的项目"
+msgstr "显示此合集但隐藏合集中的项目"
 
 msgid "Hide items which are in collections"
-msgstr "从合集中隐藏项目"
+msgstr "显示合集但隐藏合集中的项目"
 
 msgid "High quality (30fps limit)"
 msgstr "高品质(30fps)"
@@ -1525,7 +1525,7 @@ msgid "Include related content from shared libraries"
 msgstr "包括共享媒体库中的相关内容"
 
 msgid "Include related external content"
-msgstr "包含相关的额外内容"
+msgstr "包含相关的外部内容"
 
 msgid "Include season premieres in Continue Watching"
 msgstr "在继续播放中包含季首播"
@@ -1592,7 +1592,7 @@ msgid "Language to use for item metadata such as synopsis and title."
 msgstr "用于项目元数据的语言，如提要和标题。"
 
 msgid "Last Episode Date Added"
-msgstr "最后一集添加日期"
+msgstr "最后一集的添加日期"
 
 msgid "Last Played"
 msgstr "最近播放"
@@ -1629,7 +1629,7 @@ msgid "Library Sections"
 msgstr "库部分"
 
 msgid "Library default"
-msgstr "默认资料库"
+msgstr "同资料库"
 
 msgid "Library scan interval"
 msgstr "资料库扫描间隔"
@@ -1668,19 +1668,19 @@ msgid "Live TV & DVR"
 msgstr "电视直播和数字录像机"
 
 msgid "Load album reviews and critic ratings from the cloud. Might make you reconsider your taste in music."
-msgstr "从云端加载专辑评论和乐评人评分。也许会让您重新审视自己对音乐的喜好。"
+msgstr "从云端加载专辑评论和评论家评分。也许会让您重新审视自己对音乐的喜好。"
 
 msgid "Load artist biography data from the cloud."
 msgstr "从云端加载艺人简介数据。"
 
 msgid "Load concert data for artists, in case you leave the house."
-msgstr "在您离家时，加载艺人的演唱会数据。"
+msgstr "获取艺人的演唱会信息，以便您了解演出情况。\n\n\n"
 
 msgid "Load popular track data, which powers radio stations and the popular tracks area."
 msgstr "加载热门曲目数据，为电台和热门曲目版块提供支持。"
 
 msgid "Local Files Only"
-msgstr "只加载文件"
+msgstr "本地文件"
 
 msgid "Localized subtitles"
 msgstr "本地化花絮"
@@ -1752,7 +1752,7 @@ msgid "Metadata language"
 msgstr "元数据语言"
 
 msgid "Minimum automatic collection size"
-msgstr "自动收集的最小规模"
+msgstr "自动合集的最小规模"
 
 msgid "Minutes after end"
 msgstr "结束后几分钟"
@@ -2069,7 +2069,7 @@ msgid "Playlists"
 msgstr "播放列表"
 
 msgid "Plays"
-msgstr "播放"
+msgstr "播放次数"
 
 msgid "Plex Media Server is currently running database migrations."
 msgstr "Plex 媒体服务器目前正在运行数据库迁移。"
@@ -2087,10 +2087,10 @@ msgid "Plex Mixes are not available until the library has finished its first sca
 msgstr "完成首次扫描前Plex Mix不可用"
 
 msgid "Plex Music"
-msgstr "Plex 音乐"
+msgstr "Plex Music"
 
 msgid "Plex Music Only"
-msgstr "仅Plex音乐"
+msgstr "Plex Music"
 
 msgid "Plex Recommendations on TIDAL"
 msgstr "关于TIDAL的Plex建议"
@@ -2141,7 +2141,7 @@ msgid "Producer"
 msgstr "制片人"
 
 msgid "Progress"
-msgstr "进度"
+msgstr "播放进度"
 
 msgid "Protocol info string used in GetProtocolInfo responses by the DLNA server."
 msgstr "GetProtocolInfo 所使用的协议信息字符串由 DLNA 服务器来响应。"
@@ -2165,7 +2165,7 @@ msgid "Random Album Radio"
 msgstr "随机专辑电台"
 
 msgid "Randomly"
-msgstr "随机方式"
+msgstr "随机"
 
 msgid "Rated {1}"
 msgstr "评级 {1}"
@@ -2174,7 +2174,7 @@ msgid "Rating"
 msgstr "评分"
 
 msgid "Ratings Source"
-msgstr "评价资源"
+msgstr "评分来源"
 
 msgid "Rebuilding album index"
 msgstr "正在重建专辑索引"
@@ -2468,13 +2468,13 @@ msgid "Shared"
 msgstr "已共享"
 
 msgid "Show"
-msgstr "显示"
+msgstr "电视节目"
 
 msgid "Show Actor"
 msgstr "显示演员"
 
 msgid "Show Collection"
-msgstr "显示收藏集"
+msgstr "节目合集"
 
 msgid "Show Director"
 msgstr "显示导演"
@@ -2486,7 +2486,7 @@ msgid "Show Plays"
 msgstr "显示播放"
 
 msgid "Show Producer"
-msgstr "显示制片人"
+msgstr "节目制片人"
 
 msgid "Show Rating"
 msgstr "显示评分"
@@ -2504,7 +2504,7 @@ msgid "Show Year"
 msgstr "显示年份"
 
 msgid "Show collections and their items"
-msgstr "显示合集及其中项目"
+msgstr "显示合集和合集中的项目"
 
 msgid "Show in dock"
 msgstr "显示在停靠台"
@@ -2522,7 +2522,7 @@ msgid "Show suggestions and additional albums from libraries shared with you, an
 msgstr "显示来自与您共享的音乐资料库的推荐和其他专辑，并在艺人电台中包含共享的曲目。"
 
 msgid "Show this collection and its items"
-msgstr "显示此合集及其项目"
+msgstr "显示此合集和合集中的项目"
 
 msgid "Shows"
 msgstr "综艺秀"
@@ -2722,16 +2722,16 @@ msgid "The butler cleaned {1} metadata bundles."
 msgstr "管家已清理 {1} 个元数据包。"
 
 msgid "The butler collected blob garbage."
-msgstr "管家收集了一些 blob 垃圾。"
+msgstr "管家收集了垃圾数据。"
 
 msgid "The butler deleted {1} old cache files."
 msgstr "管家已删除 {1} 个旧缓存文件。"
 
 msgid "The butler generated ad markers for {1} show(s)."
-msgstr "管家已为{1}个节目生成了广告标记。"
+msgstr "管家已为 {1} 个节目生成了广告标记。"
 
 msgid "The butler generated chapter thumbnails for {1} files."
-msgstr "管家已为 {1} 个文件创建章节缩略图。"
+msgstr "管家已为 {1} 个文件生成章节缩略图。"
 
 msgid "The butler generated {1} credits markers."
 msgstr "管家已生成 {1} 个片尾标记。"
@@ -2740,7 +2740,7 @@ msgid "The butler generated {1} season intro markers."
 msgstr "管家生成了 {1} 季的片头标记。"
 
 msgid "The butler generated {1} video preview thumbnails."
-msgstr "管家已创建 {1} 个视频预览缩略图。"
+msgstr "管家已为 {1} 个视频生成预览缩略图。"
 
 msgid "The butler optimized your database."
 msgstr "管家已优化数据库。"
@@ -2755,7 +2755,7 @@ msgid "The butler performed sonic analysis on {1} batches of albums."
 msgstr "管家对 {1} 张专辑进行了声波分析。"
 
 msgid "The butler processed {1} files for autoTag generation."
-msgstr "管家在{1}个文件上自动生成了标签。"
+msgstr "管家为 {1} 个文件生成了自动标签。"
 
 msgid "The butler processed {1} files for reverse geocoding."
 msgstr "管家将{1}个文件的地理信息反向编码为可读地址。"
@@ -3166,7 +3166,7 @@ msgid "Use language preferences from plex.tv"
 msgstr "使用plex.tv的语言设置"
 
 msgid "Use local assets"
-msgstr "使用本地文件"
+msgstr "使用本地资源"
 
 msgid "Use localized posters when available. This is determined by the library language setting."
 msgstr "如果存在本地海报则使用本地文件。此项设置由媒体库语言设置判定是否生效。"
@@ -3220,7 +3220,7 @@ msgid "Video preview thumbnail frame duration"
 msgstr "视频预览缩略图的帧持续时间"
 
 msgid "Video preview thumbnails provide live updates in Now Playing and while seeking on supported apps. Thumbnail generation may take a long time, cause high CPU usage, and consume additional disk space. You can turn off thumbnail generation for individual libraries in the library's advanced settings."
-msgstr "在现在播放及寻找支持的应用程序时，视频预览缩略图将实时更新。创建缩略图可能需要较长时间，从而导致 CPU 使用率升高，同时会占用更多的磁盘空间。您可以在个人库的高级设置中关闭此库的缩略图创建功能。"
+msgstr "预览缩略图可为支持的应用程序的 “正在播放” 和查看进度提供实时画面更新。生成缩略图可能需要较长时间，导致 CPU 使用率升高，并会消耗额外的磁盘空间。您可以在资料库的高级设置中关闭个别库的缩略图生成功能。"
 
 msgid "Visibility"
 msgstr "可见性"
@@ -3321,10 +3321,10 @@ msgid "and"
 msgstr "和"
 
 msgid "as a scheduled task"
-msgstr "作为一个计划任务"
+msgstr "作为计划任务运行"
 
 msgid "as a scheduled task and when media is added"
-msgstr "当添加媒体文件时作为一个计划任务"
+msgstr "作为计划任务运行，也在媒体被添加时运行"
 
 msgid "audio"
 msgstr "音频"
@@ -3333,7 +3333,7 @@ msgid "begins with"
 msgstr "起始于"
 
 msgid "both, try online first"
-msgstr "同时使用，优先使用在线内容"
+msgstr "同时使用，优先使用在线标记"
 
 msgid "contains"
 msgstr "包含"
@@ -3345,13 +3345,13 @@ msgid "decoder"
 msgstr "解码器"
 
 msgid "disabled"
-msgstr "已禁用"
+msgstr "禁用"
 
 msgid "does not contain"
 msgstr "不含"
 
 msgid "enabled"
-msgstr "已启用"
+msgstr "启用"
 
 msgid "encoder"
 msgstr "编码器"
@@ -3414,10 +3414,10 @@ msgid "local detection only"
 msgstr "仅使用本地检测"
 
 msgid "never"
-msgstr "永不"
+msgstr "禁用"
 
 msgid "only online (no local detection)"
-msgstr "仅使用在线内容（停用本地检测）"
+msgstr "仅使用在线标记（停用本地检测）"
 
 msgid "subtitle"
 msgstr "字幕"
@@ -3436,4 +3436,52 @@ msgstr "{1} 合集"
 
 msgid "{1} Star"
 msgstr "{1} 颗星"
+
+msgid "Detect credits and allow credits skipping for items in this library when enabled in server settings."
+msgstr "在服务器设置中启用了该功能时，为此资料库中的项目检测片尾并允许跳过片尾。"
+
+msgid "Detect intros and allow intro skipping for items in this library when enabled in server settings."
+msgstr "在服务器设置中启用了该功能时，为此资料库中的项目检测片头并允许跳过片头。"
+
+msgid "How to display collections on the Library tab."
+msgstr "如何在资料库页面显示合集。"
+
+msgid "Hide collections but show their items"
+msgstr "隐藏合集但显示合集中的项目"
+
+msgid "How the items in the collection are displayed on the Library tab."
+msgstr "如何在资料库页面显示合集中的项目。"
+
+msgid "Hide this collection but show its items"
+msgstr "隐藏此合集但显示合集中的项目"
+
+msgid "Deep Cuts Radio"
+msgstr "珍藏金曲电台"
+
+msgid "Episode Last Watched"
+msgstr "最后观看的剧集"
+
+msgid "Series default"
+msgstr "同电视节目"
+
+msgid "Preferred audio language"
+msgstr "首选音频语言"
+
+msgid "Preferred subtitle language"
+msgstr "首选字幕语言"
+
+msgid "Auto-select subtitle mode"
+msgstr "字幕显示模式"
+
+msgid "Manually selected"
+msgstr "手动选择"
+
+msgid "Shown with foreign audio"
+msgstr "外语音频时显示"
+
+msgid "Always enabled"
+msgstr "始终显示"
+
+msgid "Account default"
+msgstr "同账号"
 
