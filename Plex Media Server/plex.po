@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-12 10:52\n"
+"PO-Revision-Date: 2024-04-12 19:02\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -219,7 +219,7 @@ msgid "Album Decade"
 msgstr "专辑年代"
 
 msgid "Album Format"
-msgstr "专辑格式"
+msgstr "专辑形式"
 
 msgid "Album Genre"
 msgstr "专辑类型"
@@ -360,7 +360,7 @@ msgid "Analyze audio tracks for loudness"
 msgstr "分析曲目的音量"
 
 msgid "Analyze audio tracks for sonic features"
-msgstr "分析曲目的声波特征"
+msgstr "分析曲目的声波"
 
 msgid "Analyze tracks for sonic features."
 msgstr "分析曲目的声波特征。"
@@ -1336,7 +1336,7 @@ msgid "Forced"
 msgstr "强制"
 
 msgid "Format"
-msgstr "格式"
+msgstr "形式"
 
 msgid "Friendly name"
 msgstr "易记的名字"
@@ -1408,7 +1408,7 @@ msgid "Grabbing"
 msgstr "抓取"
 
 msgid "Group albums by type"
-msgstr "按类型为专辑分组"
+msgstr "按专辑形式分组"
 
 msgid "Group into LPs, EPs & Singles, Compilations, Live Albums, Demos and Remixes."
 msgstr "分为 LP、EP 和单曲、合辑、现场专辑、Demo 和混音。"
@@ -1589,7 +1589,7 @@ msgid "Labels"
 msgstr "标签"
 
 msgid "Language to use for item metadata such as synopsis and title."
-msgstr "用于项目元数据的语言，如提要和标题。"
+msgstr "项目元数据（例如标题和简介）使用的语言。"
 
 msgid "Last Episode Date Added"
 msgstr "最后一集的添加日期"
@@ -3076,7 +3076,7 @@ msgid "Tuner in use by another process"
 msgstr "另一个进程正在使用调谐器"
 
 msgid "Type"
-msgstr "类型"
+msgstr "专辑类型"
 
 msgid "Ultra fast"
 msgstr "极速"
@@ -3172,10 +3172,10 @@ msgid "Use localized posters when available. This is determined by the library l
 msgstr "如果存在本地海报则使用本地文件。此项设置由媒体库语言设置判定是否生效。"
 
 msgid "Use original title"
-msgstr "使用原标题"
+msgstr "使用原始标题"
 
 msgid "Use original titles"
-msgstr "使用原标题"
+msgstr "使用原始标题"
 
 msgid "Use red band (restricted audiences) trailers when available"
 msgstr "使用红色标记（受限用户）电影/电视剧预告片"
@@ -3187,10 +3187,10 @@ msgid "Use season titles when available."
 msgstr "如果可用，请使用季标题。"
 
 msgid "Use the original title for this item regardless of the library language."
-msgstr "使用原标题，而非资料库语言。"
+msgstr "无论资料库使用哪种语言，始终为此项目使用原始标题。"
 
 msgid "Use the original titles for all items regardless of the library language."
-msgstr "无论资料库使用哪种语言，所有项目均应使用原始标题。"
+msgstr "无论资料库使用哪种语言，始终为所有项目使用原始标题。"
 
 msgid "User currently viewing the content"
 msgstr "正在浏览该内容的用户"
