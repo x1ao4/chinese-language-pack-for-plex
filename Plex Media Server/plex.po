@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-12 08:58\n"
+"PO-Revision-Date: 2024-04-12 10:52\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -393,7 +393,7 @@ msgid "App cannot direct play this item. Direct play is disabled."
 msgstr "应用程序无法直接播放此项目。直接播放功能已禁用。"
 
 msgid "App cannot direct play this item. Embedded subtitles must be removed for direct play."
-msgstr "应用程序无法直接播放此项目。必须移除嵌入式字幕才能直接播放。"
+msgstr "应用程序无法直接播放此项目。需要移除内封字幕才能进行直接播放。"
 
 msgid "App cannot direct play this item. Item requires conversion of selected subtitle stream."
 msgstr "应用程序无法直接播放此项目。项目需要转换所选字幕流。"
@@ -420,22 +420,22 @@ msgid "App cannot direct play this item. No direct play video profile exists for
 msgstr "应用程序无法直接播放此项目。附带容器 {2}、视频编码解码器 {3} 和音频编码解码器 {4} 的协议 {1} 没有直接播放视频配置文件。"
 
 msgid "App cannot direct play this item. Non-selected embedded subtitle stream {1} cannot be direct-played."
-msgstr "应用程序无法直接播放此项目。无法直接播放非选择嵌入式字幕流 {1}。"
+msgstr "应用程序无法直接播放此项目。未选择的内封字幕 {1} 无法直接播放。"
 
 msgid "App cannot direct play this item. Selected audio stream is not the first audio stream and app cannot select audio streams in direct play."
 msgstr "应用程序无法直接播放此项目。所选音频流不是第一个音频流，并且应用程序不能在直接播放时选择音频流。"
 
 msgid "App cannot direct play this item. Selected embedded subtitle stream is not the first embedded subtitle stream."
-msgstr "应用程序无法直接播放此项目。所选嵌入式字幕流不是第一个嵌入式字幕流。"
+msgstr "应用程序无法直接播放此项目。选择的内封字幕不是第一个内封字幕。"
 
 msgid "App cannot direct play this item. Selected embedded subtitle stream must be extracted to sidecar."
-msgstr "应用程序无法直接播放此项目。必须将所选嵌入式字幕流提取到辅助字幕中。"
+msgstr "应用程序无法直接播放此项目。需要将选择的内封字幕提取到附属文件中。"
 
 msgid "App cannot direct play this item. Selected sidecar subtitle stream cannot be direct played."
 msgstr "应用程序无法直接播放此项目。无法直接播放所选辅助字幕的字幕流。"
 
 msgid "App cannot direct play this item. Selected sidecar subtitle stream must be embedded."
-msgstr "应用程序无法直接播放此项目。必须嵌入所选辅助字幕的字幕流。"
+msgstr "应用程序无法直接播放此项目。需要将选择的附属字幕封装到主文件中。"
 
 msgid "App cannot direct play this item. Selected sidecar subtitle stream must be segmented."
 msgstr "应用程序无法直接播放此项目。必须将所选辅助字幕的字幕流分段。"
@@ -1108,7 +1108,7 @@ msgid "Other Editions of {1}"
 msgstr "{1} 的其他版本"
 
 msgid "Embedded Tags"
-msgstr "嵌入的标签"
+msgstr "内嵌标签"
 
 msgid "Empty trash automatically after every scan"
 msgstr "每次扫描后自动清空回收站"
@@ -1771,10 +1771,10 @@ msgid "Most Played in {1}"
 msgstr "{1}最爱"
 
 msgid "Mood"
-msgstr "情感"
+msgstr "氛围"
 
 msgid "Mood Radio"
-msgstr "情感电台"
+msgstr "氛围电台"
 
 msgid "More by (Artist)"
 msgstr "（艺人）的更多专辑"
@@ -1840,7 +1840,7 @@ msgid "Neither direct play nor conversion is available."
 msgstr "直接播放或转换功能都不可用。"
 
 msgid "Network"
-msgstr "网络"
+msgstr "播出平台"
 
 msgid "Never"
 msgstr "永不"
@@ -2264,7 +2264,7 @@ msgid "Recommended For You"
 msgstr "为您推荐"
 
 msgid "Record Label"
-msgstr "录音标签"
+msgstr "唱片公司"
 
 msgid "Recording"
 msgstr "录制"
@@ -2637,7 +2637,7 @@ msgid "Style"
 msgstr "风格"
 
 msgid "Style Radio"
-msgstr "广播风格"
+msgstr "风格电台"
 
 msgid "Subtitle Language"
 msgstr "字幕语言"
@@ -3004,7 +3004,7 @@ msgid "Track Last Skipped"
 msgstr "最后跳过的曲目"
 
 msgid "Track Mood"
-msgstr "音轨风格"
+msgstr "曲目氛围"
 
 msgid "Track Plays"
 msgstr "曲目播放"
@@ -3250,7 +3250,7 @@ msgid "When enabled, richer information is downloaded for some shows and movies.
 msgstr "启用后，将为某些节目和电影下载更丰富的信息。这会使指南刷新变慢。"
 
 msgid "When scanning this library, prefer embedded tags and local files if present."
-msgstr "扫描此库时，请优先使用嵌入式标签和本地文件（如果有）。"
+msgstr "扫描此库时，请优先使用内嵌标签和本地文件（如果存在）。"
 
 msgid "When scanning this library, use local posters and artwork if present."
 msgstr "扫描此媒体库时，如果存在本地海报和艺术插图则使用本地文件。"
