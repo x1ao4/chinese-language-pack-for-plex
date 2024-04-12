@@ -1166,8 +1166,8 @@
   "Monitor conversion progress in {1}Conversion Activity{2}.": "在{1}转换活动{2}中监控转换进度。",
   "Mono": "黑白",
   "Months": "月",
-  "Mood": "情感",
-  "Moods": "情感",
+  "Mood": "氛围",
+  "Moods": "氛围",
   "More": "更多",
   "More Actions": "更多操作 ",
   "More Ways to Watch": "更多观看方式",
@@ -2745,5 +2745,6 @@
   "…and {count} more": "…以及其他{count}项",
   "…and {truncatedFilesCount} more": "…以及其他{truncatedFilesCount}项",
   "Producers": "制片人",
-  "Edition": "版本"
+  "Edition": "版本",
+  "Styles": "风格"
 }
