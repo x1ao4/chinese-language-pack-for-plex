@@ -16,7 +16,7 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 
 <img width="100%" alt="4" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/94344a3e-78b4-498f-867c-96b305e22cce">
 
-<img width="100%" alt="5" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/7ee12fa6-2671-4df6-b5ee-d373c3f86c86">
+<img width="100%" alt="5" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/7b755f91-206f-4bd4-ab21-ae5cd877bff0">
 
 <img width="100%" alt="6" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/ba017732-e67a-4d48-bafb-ca7e3ab18f49">
 
@@ -31,3 +31,38 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 <img width="100%" alt="11" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/68ca7f6a-987a-4e1d-a8c7-4d42a532cdc0">
 
 <img width="100%" alt="12" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/2be900ea-bf89-424c-bfdd-2ba601768130">
+
+## 支持平台
+### Plex Desktop
+- Plex for MacOS
+- Plex for Windows
+- Plex for Linux
+### Plex Media Server
+- Plex Media Server for MacOS
+- Plex Media Server for Windows
+- Plex Media Server for Linux
+- Plex Media Server for Docker
+- Plex Media Server for NAS（套件）
+
+## 使用方法
+### Plex Desktop
+请下载 Plex Desktop 文件夹内的 `zh.json` 文件，然后替换你的 Plex 目录中的 `zh.json` 文件，重启 Plex 客户端后即可生效。你可以参考以下地址找到你的 `zh.json` 文件。
+```
+/Applications/Plex.app/Contents/Resources/web-client/translations/zh.json
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
