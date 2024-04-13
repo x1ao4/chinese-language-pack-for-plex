@@ -37,12 +37,16 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 - Plex for MacOS
 - Plex for Windows
 - Plex for Linux
+
 ### Plex Media Server
 - Plex Media Server for MacOS
 - Plex Media Server for Windows
 - Plex Media Server for Linux
 - Plex Media Server for Docker
 - Plex Media Server for NAS（套件）
+
+### Plex Web
+- 通过 IP 或自定义域名访问的 Plex Web。
 
 ## 使用方法
 ### Plex Desktop
