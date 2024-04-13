@@ -49,6 +49,27 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 请下载 Plex Desktop 文件夹内的 `zh.json` 文件，然后替换你的 Plex 目录中的 `zh.json` 文件，重启 Plex 客户端后即可生效。你可以参考以下地址找到你的 `zh.json` 文件。
 ```
 /Applications/Plex.app/Contents/Resources/web-client/translations/zh.json
+C:\Program Files\Plex\Plex\web-client\translations\zh.json
+```
+
+### Plex Media Server
+请下载 Plex Media Server 文件夹内的 `plex.mo` 文件，然后替换你的 Plex Media Server 目录中的 `plex.mo` 文件，重启 Plex Media Server 后即可生效。你可以参考以下地址找到你的 `plex.mo` 文件。
+```
+/Applications/Plex Media Server.app/Contents/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
+C:\Program Files\Plex\Plex Media Server\Resources\locale\zh_CN\LC_MESSAGES/plex.mo
+/usr/lib/plexmediaserver/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
+/share/CACHEDEV1_DATA/.qpkg/PlexMediaServer/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
+/volume1/@appstore/PlexMediaServer/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
+```
+
+### Plex Web
+请下载 Plex Desktop 文件夹内的 `zh.json` 文件，然后替换你的 Plex Media Server 目录中的 `zh.json` 文件，重启 Plex Media Server 后即可生效。你可以参考以下地址找到你的 `zh.json` 文件。
+```
+/Applications/Plex Media Server.app/Contents/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
+C:\Program Files\Plex\Plex Media Server\Resources\Plug-ins-c0dd5a73e\WebClient.bundle\Contents\Resources\translations\zh.json
+/usr/lib/plexmediaserver/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
+/share/CACHEDEV1_DATA/.qpkg/PlexMediaServer/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
+/volume1/@appstore/PlexMediaServer/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
 ```
 
 
