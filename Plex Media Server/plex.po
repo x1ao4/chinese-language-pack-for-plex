@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-12 19:02\n"
+"PO-Revision-Date: 2024-04-13 17:11\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -249,7 +249,7 @@ msgid "Album Title"
 msgstr "专辑标题"
 
 msgid "Album Type"
-msgstr "专辑类型"
+msgstr "专辑类别"
 
 msgid "Album sorting"
 msgstr "专辑排序"
@@ -3076,7 +3076,7 @@ msgid "Tuner in use by another process"
 msgstr "另一个进程正在使用调谐器"
 
 msgid "Type"
-msgstr "专辑类型"
+msgstr "类别"
 
 msgid "Ultra fast"
 msgstr "极速"
