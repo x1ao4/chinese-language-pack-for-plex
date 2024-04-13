@@ -46,7 +46,7 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 - Plex Media Server for NAS（套件）
 
 ### Plex Web
-- 通过 IP 或自定义域名访问的 Plex 网页端。
+- 通过 IP 或自定义域名访问的 Plex 网页端
 
 ## 使用方法
 ### Plex Desktop
