@@ -5,8 +5,14 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 
 因为 Plex 是一个跨平台的应用服务，有很多内容需要分平台进行翻译，比如安卓端、苹果端、网页端、服务器等都有单独的翻译项目，对于未审核（未复核）的字符串，我们是可以自由进行翻译和修改的，但是已审核（已复核）的字符串我们就无权修改了，如上所述，有很多已审核的翻译是存在问题的，由于我们无权进行修改，通过官方渠道似乎没有什么办法干预，同时也因为未审核的字符串可以被随意修改，直接在官方项目上修改或提交翻译也可能被其他人再次改动，所以我决定自己建立一个 Plex 的翻译项目，按照我认为规范的方式对 Plex 进行汉化，并将汉化后的语言包共享给大家使用。
 
+## 翻译进度
+<img width="100%" alt="进度" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/662da0de-352a-49bd-a1ca-ce848ae8af64">
+
+上图中蓝色的部分代表官方翻译的部分，绿色的部分代表我翻译的部分。其中对 Plex Media Server 的翻译将应用到全平台的 Plex、Plex Web、Plex HTPC、Plexamp 和 Plex Dash 等应用程序上，对 Web Clients 的翻译将应用到桌面端的 Plex 应用程序上。（翻译将持续更新）
+
+
 ## 效果展示
-以下为部分翻译内容对比，左侧为 Plex 官方翻译，右侧为 plex-locale-zhcn 非官方翻译。plex-locale-zhcn 的翻译覆盖范围主要是桌面端和服务器，对服务器进行的翻译会对全平台 Plex 客户端内调用服务器数据的部分生效，下图使用的是 Plex for MacOS 客户端。
+以下为部分翻译内容对比，左侧为 Plex 官方版本，右侧为我的版本。下图使用的是 Plex for MacOS 客户端。
 
 <img width="100%" alt="1" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/2f794399-31e9-4a3f-875c-32a81abad90e">
 
@@ -96,9 +102,6 @@ C:\Program Files\Plex\Plex Media Server\Resources\locale\zh_CN\LC_MESSAGES/plex.
 # Synology
 /volume1/@appstore/PlexMediaServer/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
 ```
-
-## 翻译进度
-
 
 ## 注意事项
 - 提供的文件地址仅供参考，因为安装设置的差异，文件地址也许不会完全一致，请在类似的目录结构中查找文件。
