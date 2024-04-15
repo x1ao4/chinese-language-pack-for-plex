@@ -6,7 +6,7 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 因为 Plex 是一个跨平台的应用服务，有很多内容需要分平台进行翻译，比如安卓端、苹果端、网页端、服务器等都有单独的翻译项目，对于未审核（未复核）的字符串，我们是可以自由进行翻译和修改的，但是已审核（已复核）的字符串我们就无权修改了，如上所述，有很多已审核的翻译是存在问题的，由于我们无权进行修改，通过官方渠道似乎没有什么办法干预，同时也因为未审核的字符串可以被随意修改，直接在官方项目上修改或提交翻译也可能被其他人再次改动，所以我决定自己建立一个 Plex 的翻译项目，按照我认为规范的方式对 Plex 进行汉化，并将汉化后的语言包共享给大家使用。
 
 ## 效果展示
-以下为部分翻译内容对比，左侧为 Plex 官方翻译，右侧为 plex-locale-zhcn 非官方翻译。plex-locale-zhcn 的翻译覆盖范围主要是桌面端和服务器，对服务器进行的翻译会对所有 Plex 客户端内调用服务器数据的部分生效，下图使用的是 Plex for Mac 客户端。
+以下为部分翻译内容对比，左侧为 Plex 官方翻译，右侧为 plex-locale-zhcn 非官方翻译。plex-locale-zhcn 的翻译覆盖范围主要是桌面端和服务器，对服务器进行的翻译会对全平台 Plex 客户端内调用服务器数据的部分生效，下图使用的是 Plex for MacOS 客户端。
 
 <img width="100%" alt="1" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/2f794399-31e9-4a3f-875c-32a81abad90e">
 
@@ -38,6 +38,9 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 - Plex for Windows
 - Plex for Linux
 
+### Plex Web
+- 通过 IP 或自定义域名访问的 Plex 网页端
+
 ### Plex Media Server
 - Plex Media Server for MacOS
 - Plex Media Server for Windows
@@ -45,49 +48,59 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 - Plex Media Server for Docker
 - Plex Media Server for NAS（套件）
 
-### Plex Web
-- 通过 IP 或自定义域名访问的 Plex 网页端
-
 ## 使用方法
 ### Plex Desktop
-请下载 Plex Desktop 文件夹内的 `zh.json` 文件，然后替换你的 Plex 目录中的 `zh.json` 文件，重启 Plex 客户端后即可生效。你可以参考以下地址找到你的 `zh.json` 文件。
+请下载 Web Clients 文件夹内的 `zh.json` 文件，然后替换你的 Plex 目录中的 `zh.json` 文件，重启 Plex 客户端后即可生效。你可以参考以下地址找到你的 `zh.json` 文件。
 ```
+# MacOS
 /Applications/Plex.app/Contents/Resources/web-client/translations/zh.json
+
+# Windows
 C:\Program Files\Plex\Plex\web-client\translations\zh.json
+```
+
+### Plex Web
+请下载 Web Clients 文件夹内的 `zh.json` 文件，然后替换你的 Plex Media Server 目录中的 `zh.json` 文件，重启 Plex Media Server 后即可生效。你可以参考以下地址找到你的 `zh.json` 文件。
+```
+# MacOS
+/Applications/Plex Media Server.app/Contents/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
+
+# Windows
+C:\Program Files\Plex\Plex Media Server\Resources\Plug-ins-c0dd5a73e\WebClient.bundle\Contents\Resources\translations\zh.json
+
+# Docker
+/usr/lib/plexmediaserver/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
+
+# QNAP
+/share/CACHEDEV1_DATA/.qpkg/PlexMediaServer/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
+
+# Synology
+/volume1/@appstore/PlexMediaServer/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
 ```
 
 ### Plex Media Server
 请下载 Plex Media Server 文件夹内的 `plex.mo` 文件，然后替换你的 Plex Media Server 目录中的 `plex.mo` 文件，重启 Plex Media Server 后即可生效。你可以参考以下地址找到你的 `plex.mo` 文件。
 ```
+# MacOS
 /Applications/Plex Media Server.app/Contents/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
+
+# Windows
 C:\Program Files\Plex\Plex Media Server\Resources\locale\zh_CN\LC_MESSAGES/plex.mo
+
+# Docker
 /usr/lib/plexmediaserver/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
+
+# QNAP
 /share/CACHEDEV1_DATA/.qpkg/PlexMediaServer/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
+
+# Synology
 /volume1/@appstore/PlexMediaServer/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
 ```
 
-### Plex Web
-请下载 Plex Desktop 文件夹内的 `zh.json` 文件，然后替换你的 Plex Media Server 目录中的 `zh.json` 文件，重启 Plex Media Server 后即可生效。你可以参考以下地址找到你的 `zh.json` 文件。
-```
-/Applications/Plex Media Server.app/Contents/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
-C:\Program Files\Plex\Plex Media Server\Resources\Plug-ins-c0dd5a73e\WebClient.bundle\Contents\Resources\translations\zh.json
-/usr/lib/plexmediaserver/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
-/share/CACHEDEV1_DATA/.qpkg/PlexMediaServer/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
-/volume1/@appstore/PlexMediaServer/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
-```
+## 翻译进度
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 注意事项
+- 提供的文件地址仅供参考，因为安装设置的差异，文件地址也许不会完全一致，请在类似的目录结构中查找文件。
+- 建议在替换文件前先备份你原有的 `zh.json` 和 `plex.mo` 文件，以便你能够退回官方版本（如果有需要）。
+- 语言包会持续更新，你可以关注本项目，及时获取最新版本，根据需要，某些翻译可能会在后续版本中发生变动。
