@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-13 17:11\n"
+"PO-Revision-Date: 2024-04-16 15:25\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -750,7 +750,7 @@ msgid "Comma-separated list of strings considered articles when sorting titles. 
 msgstr "标题排序时，用逗号分隔的字符串列表被视为文章。重启服务后生效。"
 
 msgid "Compilations"
-msgstr "合辑"
+msgstr "精选辑"
 
 msgid "Computing best lineup"
 msgstr "计算最佳节目单"
@@ -1411,7 +1411,7 @@ msgid "Group albums by type"
 msgstr "按专辑形式分组"
 
 msgid "Group into LPs, EPs & Singles, Compilations, Live Albums, Demos and Remixes."
-msgstr "分为 LP、EP 和单曲、合辑、现场专辑、Demo 和混音。"
+msgstr "分为 LP、EP 和单曲、精选辑、现场专辑、Demo 和混音。"
 
 msgid "Guide"
 msgstr "导引"
@@ -2585,7 +2585,7 @@ msgid "Source"
 msgstr "源"
 
 msgid "Specials"
-msgstr "特色"
+msgstr "特别篇"
 
 msgid "Speed at which to limit the total bandwidth not on the local network in kilobits per second. Use 0 to set no limit."
 msgstr "限制本地网络以外的总带宽的速度，以 kbps为单位。如果使用 0，则没有设置限速。"
@@ -2631,7 +2631,7 @@ msgstr "制片公司"
 
 msgctxt "Studio"
 msgid "More from {1}"
-msgstr "更多来自 {1} 的作品"
+msgstr "更多来自 {1} 的内容"
 
 msgid "Style"
 msgstr "风格"
