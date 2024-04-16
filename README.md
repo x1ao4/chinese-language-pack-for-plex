@@ -163,7 +163,7 @@ Below are partial comparisons of translated content. The left side shows the Ple
 - Plex Media Server for Windows
 - Plex Media Server for Linux
 - Plex Media Server for Docker
-- Plex Media Server for NAS（packages）
+- Plex Media Server for NAS (packages)
 
 ## Usage
 ### Plex Desktop
