@@ -105,6 +105,7 @@ C:\Program Files\Plex\Plex Media Server\Resources\locale\zh_CN\LC_MESSAGES/plex.
 
 ## 注意事项
 - 提供的文件地址仅供参考，因为安装设置差异，文件地址也许不会完全一致，请在类似的目录结构中查找文件。
+- 通过 Docker 安装的 Plex Media Server 请在容器内部目录中查找和替换文件（不是映射目录）。
 - 建议在替换文件前先备份你原有的 `zh.json` 和 `plex.mo` 文件，以便你能够退回官方版本（如果有需要）。
 - 语言包会持续更新，你可以关注本项目，及时获取最新版本，根据需要，某些翻译可能会在后续版本中变更。
 - 更新 Plex 桌面客户端或 Plex Media Server 版本后会重置语言包，请在更新版本后重新替换语言包。
@@ -217,6 +218,7 @@ C:\Program Files\Plex\Plex Media Server\Resources\locale\zh_CN\LC_MESSAGES/plex.
 
 ## Notes
 - The provided file paths are for reference only. Due to differences in installation settings, the file paths may not be exactly the same. Please look for the files in a similar directory structure.
+- For Plex Media Server installed via Docker, please locate and replace files within the container directory (not the mapped directory).
 - It is recommended to back up your original `zh.json` and `plex.mo` files before replacing them so that you can revert to the official version if needed.
 - The language pack will be continuously updated. You can star this repository to get the latest version promptly. Certain translations may change in subsequent versions as needed.
 - After updating the Plex desktop client or Plex Media Server version, the language pack will be reset. Please replace the language pack again after updating the version.
