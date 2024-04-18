@@ -56,7 +56,7 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 
 ## 使用方法
 ### Plex Desktop
-请下载 Web Clients 文件夹内的 `zh.json` 文件，然后替换你的 Plex 目录中的 `zh.json` 文件，重启 Plex 客户端后即可生效（请确保文件权限与原文件一致）。你可以参考以下地址找到你的 `zh.json` 文件。
+请下载 Web Clients 文件夹内的 `zh.json` 文件，然后替换你的 Plex 目录中的 `zh.json` 文件，重启 Plex 客户端后即可生效（请确保文件的权限和模式与原文件一致）。你可以参考以下地址找到你的 `zh.json` 文件。
 ```
 # MacOS
 /Applications/Plex.app/Contents/Resources/web-client/translations/zh.json
@@ -66,7 +66,7 @@ C:\Program Files\Plex\Plex\web-client\translations\zh.json
 ```
 
 ### Plex Web
-请下载 Web Clients 文件夹内的 `zh.json` 文件，然后替换你的 Plex Media Server 目录中的 `zh.json` 文件，重启 Plex Media Server 后即可生效（请确保文件权限与原文件一致）。你可以参考以下地址找到你的 `zh.json` 文件。
+请下载 Web Clients 文件夹内的 `zh.json` 文件，然后替换你的 Plex Media Server 目录中的 `zh.json` 文件，重启 Plex Media Server 后即可生效（请确保文件的权限和模式与原文件一致）。你可以参考以下地址找到你的 `zh.json` 文件。
 ```
 # MacOS
 /Applications/Plex Media Server.app/Contents/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
@@ -85,7 +85,7 @@ C:\Program Files\Plex\Plex Media Server\Resources\Plug-ins-c0dd5a73e\WebClient.b
 ```
 
 ### Plex Media Server
-请下载 Plex Media Server 文件夹内的 `plex.mo` 文件，然后替换你的 Plex Media Server 目录中的 `plex.mo` 文件，重启 Plex Media Server 后即可生效（请确保文件权限与原文件一致）。你可以参考以下地址找到你的 `plex.mo` 文件。
+请下载 Plex Media Server 文件夹内的 `plex.mo` 文件，然后替换你的 Plex Media Server 目录中的 `plex.mo` 文件，重启 Plex Media Server 后即可生效（请确保文件的权限和模式与原文件一致）。你可以参考以下地址找到你的 `plex.mo` 文件。
 ```
 # MacOS
 /Applications/Plex Media Server.app/Contents/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
@@ -169,7 +169,7 @@ Below are partial comparisons of translated content. The left side shows the Ple
 
 ## Usage
 ### Plex Desktop
-Please download the `zh.json` file from the Web Clients folder and replace the `zh.json` file in your Plex directory. Restart the Plex client for the changes to take effect (Please ensure file permissions match the original file). You can find your `zh.json` file in a directory similar to the following:
+Please download the `zh.json` file from the Web Clients folder and replace the `zh.json` file in your Plex directory. Restart the Plex client for the changes to take effect (Ensure file permissions and modes match the original). You can find your `zh.json` file in a directory similar to the following:
 ```
 # MacOS
 /Applications/Plex.app/Contents/Resources/web-client/translations/zh.json
@@ -179,7 +179,7 @@ C:\Program Files\Plex\Plex\web-client\translations\zh.json
 ```
 
 ### Plex Web
-Please download the `zh.json` file from the Web Clients folder and replace the `zh.json` file in your Plex Media Server directory. Restart the Plex Media Server for the changes to take effect (Please ensure file permissions match the original file). You can find your `zh.json` file in a directory similar to the following:
+Please download the `zh.json` file from the Web Clients folder and replace the `zh.json` file in your Plex Media Server directory. Restart the Plex Media Server for the changes to take effect (Ensure file permissions and modes match the original). You can find your `zh.json` file in a directory similar to the following:
 ```
 # MacOS
 /Applications/Plex Media Server.app/Contents/Resources/Plug-ins-c0dd5a73e/WebClient.bundle/Contents/Resources/translations/zh.json
@@ -198,7 +198,7 @@ C:\Program Files\Plex\Plex Media Server\Resources\Plug-ins-c0dd5a73e\WebClient.b
 ```
 
 ### Plex Media Server
-Please download the `plex.mo` file from the Plex Media Server folder and replace the `plex.mo` file in your Plex Media Server directory. Restart the Plex Media Server for the changes to take effect (Please ensure file permissions match the original file). You can find your `plex.mo` file in a directory similar to the following:
+Please download the `plex.mo` file from the Plex Media Server folder and replace the `plex.mo` file in your Plex Media Server directory. Restart the Plex Media Server for the changes to take effect (Ensure file permissions and modes match the original). You can find your `plex.mo` file in a directory similar to the following:
 ```
 # MacOS
 /Applications/Plex Media Server.app/Contents/Resources/locale/zh_CN/LC_MESSAGES/plex.mo
