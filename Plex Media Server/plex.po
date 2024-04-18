@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-16 15:25\n"
+"PO-Revision-Date: 2024-04-18 04:04\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -451,11 +451,11 @@ msgstr "艺人"
 
 msgctxt "Artist"
 msgid "More Albums By {1}"
-msgstr "{1} 的更多专辑"
+msgstr "更多 {1} 的专辑"
 
 msgctxt "Artist"
 msgid "More by {1}"
-msgstr "{1} 的更多作品"
+msgstr "更多 {1} 的作品"
 
 msgid "Artist Bios"
 msgstr "艺人简介"
@@ -548,7 +548,7 @@ msgstr "自动标记"
 
 msgctxt "Autotag"
 msgid "More in {1}"
-msgstr "{1} 中的更多内容"
+msgstr "更多 {1} 中的内容"
 
 msgid "Background transcoding x264 preset"
 msgstr "后台转码 x264 预设"
@@ -1010,7 +1010,7 @@ msgstr "导演"
 
 msgctxt "Director"
 msgid "More by {1}"
-msgstr "{1} 的更多作品"
+msgstr "更多 {1} 的作品"
 
 msgctxt "Director"
 msgid "Top Movies by {1}"
@@ -1035,7 +1035,7 @@ msgid "Disabled"
 msgstr "禁用"
 
 msgid "Disables legacy weak ciphers, increases DH group size, and switches to ECDSA certificates when renewing. May prevent older clients from connecting."
-msgstr "禁用旧的弱加密算法，增加DH组大小，并在更新证书时切换到ECDSA证书。这可能会阻止旧版客户端的连接。"
+msgstr "禁用传统的弱加密算法，增加 DH 组的大小，并在更新证书时切换到 ECDSA 证书。可能会阻止较旧的客户端连接。"
 
 msgid "Discovery Radio"
 msgstr "探索电台"
@@ -1147,7 +1147,7 @@ msgid "Enable local network discovery (GDM)"
 msgstr "启用本地网络发现功能（GDM）"
 
 msgid "Enable server support for IPv6"
-msgstr "启动支持 IPv6 的服务器"
+msgstr "启用服务器的 IPv6 支持"
 
 msgid "Enable smart shuffling on artists and smart music playlists"
 msgstr "启用艺人和智能音乐播放列表的智能随机播放功能"
@@ -1382,7 +1382,7 @@ msgstr "类型"
 
 msgctxt "Genre"
 msgid "More in {1}"
-msgstr "更多 {1}"
+msgstr "更多 {1} 中的内容"
 
 msgctxt "Genre"
 msgid "Top Movies in {1}"
@@ -1674,7 +1674,7 @@ msgid "Load artist biography data from the cloud."
 msgstr "从云端加载艺人简介数据。"
 
 msgid "Load concert data for artists, in case you leave the house."
-msgstr "获取艺人的演唱会信息，以便您了解演出情况。\n\n\n"
+msgstr "获取艺人的演唱会信息，以便您了解演出情况。"
 
 msgid "Load popular track data, which powers radio stations and the popular tracks area."
 msgstr "加载热门曲目数据，为电台和热门曲目版块提供支持。"
@@ -1777,7 +1777,7 @@ msgid "Mood Radio"
 msgstr "氛围电台"
 
 msgid "More by (Artist)"
-msgstr "（艺人）的更多专辑"
+msgstr "更多（艺人）的专辑"
 
 msgid "More from (Label)"
 msgstr "更多来自（唱片公司）的专辑"
@@ -1786,7 +1786,7 @@ msgid "More from (Network)"
 msgstr "更多来自（播出平台）的电视节目"
 
 msgid "More in (Genre)"
-msgstr "更多（类型）"
+msgstr "更多（类型）中的内容"
 
 msgid "Most Played"
 msgstr "最多播放"
@@ -2309,7 +2309,7 @@ msgid "Related Movies"
 msgstr "相关电影"
 
 msgid "Related Shows"
-msgstr "相关节目"
+msgstr "相关电视节目"
 
 msgid "Release Date"
 msgstr "发布日期"
@@ -2624,7 +2624,7 @@ msgid "Streaming Session doesn't exist or timed out."
 msgstr "流会话不存在或超时。"
 
 msgid "Strict TLS configuration"
-msgstr "严格TLS配置"
+msgstr "严格的 TLS 配置"
 
 msgid "Studio"
 msgstr "制片公司"
@@ -2674,7 +2674,7 @@ msgstr "标签"
 
 msgctxt "Tag"
 msgid "More in {1}"
-msgstr "{1} 中的更多内容"
+msgstr "更多 {1} 中的内容"
 
 msgid "Tag photos"
 msgstr "标记照片"
@@ -2986,7 +2986,7 @@ msgid "Top Movies in (Genre)"
 msgstr "（类型）中的热门电影"
 
 msgid "Top Rated TV"
-msgstr "评分最高的电视"
+msgstr "评分最高的电视节目"
 
 msgid "Top Unplayed Movies"
 msgstr "未播放的热门电影"
