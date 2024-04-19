@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-18 04:04\n"
+"PO-Revision-Date: 2024-04-19 11:01\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -303,7 +303,7 @@ msgid "Allow Plex Media Server tokens in logs"
 msgstr "允许 Plex 媒体服务器令牌记录在日志里"
 
 msgid "Allow matching adult titles and returning adult titles in fix match results."
-msgstr "允许匹配成人标题，并在固定匹配结果中返回成人标题。"
+msgstr "允许匹配成人内容，并在修正匹配的返回结果中包含成人内容。"
 
 msgid "Allow media deletion"
 msgstr "允许删除媒体文件"
@@ -312,7 +312,7 @@ msgid "Allow partial airings"
 msgstr "允许部分播放"
 
 msgid "Allow red band trailers"
-msgstr "允许播放红色标记电影/电视剧预告片"
+msgstr "允许限制级预告片"
 
 msgid "Allow storing location names for items with geolocation metadata."
 msgstr "允许存储具有地理位置元数据的项目的位置名称。"
@@ -1309,13 +1309,13 @@ msgid "Find Lyrics"
 msgstr "查找歌词"
 
 msgid "Find extras"
-msgstr "寻找花絮"
+msgstr "查找额外内容"
 
 msgid "Find lyrics for tracks in this library automatically."
 msgstr "自动为此资料库中的曲目查找歌词。"
 
 msgid "Find trailers and extras automatically (Plex Pass required)"
-msgstr "自动寻找预告片及其他花絮内容（需要 Plex 通行证）"
+msgstr "自动查找预告片和额外内容（需要 Plex 通行证）。"
 
 msgid "Finding albums"
 msgstr "正在查找专辑"
@@ -1510,10 +1510,10 @@ msgid "Include Cinema Trailers from new and upcoming movies on Blu-ray"
 msgstr "包括在 Bluray 上新上映或即将上映的电影预告片"
 
 msgid "Include adult content"
-msgstr "包含成人内容"
+msgstr "允许成人内容"
 
 msgid "Include extras with subtitles in Library language"
-msgstr "包含匹配本媒体库语言字幕的花絮"
+msgstr "查找包含资料库语言的字幕的额外内容。"
 
 msgid "Include in home screen and global search"
 msgstr "包含主页和全局搜索"
@@ -1665,7 +1665,7 @@ msgid "Live Albums"
 msgstr "现场专辑"
 
 msgid "Live TV & DVR"
-msgstr "电视直播和数字录像机"
+msgstr "直播电视和数字录像机"
 
 msgid "Load album reviews and critic ratings from the cloud. Might make you reconsider your taste in music."
 msgstr "从云端加载专辑评论和评论家评分。也许会让您重新审视自己对音乐的喜好。"
@@ -1683,7 +1683,7 @@ msgid "Local Files Only"
 msgstr "本地文件"
 
 msgid "Localized subtitles"
-msgstr "本地化花絮"
+msgstr "本地化字幕"
 
 msgid "Location visibility"
 msgstr "位置可见性"
@@ -1990,7 +1990,7 @@ msgid "One or more devices must be specified"
 msgstr "必须指定一个或多个设备"
 
 msgid "Only show trailers"
-msgstr "仅展示预告片"
+msgstr "仅显示预告片"
 
 msgid "Only unwatched movies"
 msgstr "只有未观看的电影"
@@ -2032,7 +2032,7 @@ msgid "Perform extensive media analysis during maintenance"
 msgstr "维护期间执行大量媒体分析"
 
 msgid "Perform refresh of program guide data."
-msgstr "刷新节目指南数据。"
+msgstr "刷新节目指南数据"
 
 msgid "Photo"
 msgstr "照片"
@@ -2426,7 +2426,7 @@ msgid "Segmented transcoder timeout"
 msgstr "分段转码器超时"
 
 msgid "Select a primary source for ratings."
-msgstr "选择评级的主要来源。"
+msgstr "选择评分的主要来源。"
 
 msgid "Send crash reports to Plex"
 msgstr "发送崩溃报告至 Plex"
@@ -2552,7 +2552,7 @@ msgid "Size of IPC buffer (in bytes) when streaming transcodes"
 msgstr "传输转码时的 IPC 缓冲（以字节为单位）的大小"
 
 msgid "Skip extras which aren't trailers"
-msgstr "跳过非预告片的花絮内容"
+msgstr "忽略不是预告片的额外内容。"
 
 msgid "Slow"
 msgstr "慢"
@@ -3178,7 +3178,7 @@ msgid "Use original titles"
 msgstr "使用原始标题"
 
 msgid "Use red band (restricted audiences) trailers when available"
-msgstr "使用红色标记（受限用户）电影/电视剧预告片"
+msgstr "允许显示限制级预告片（如果存在）。"
 
 msgid "Use season titles"
 msgstr "使用季标题"
