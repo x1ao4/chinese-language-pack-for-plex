@@ -8,7 +8,7 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 ## 翻译进度
 <img width="100%" alt="进度" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/e7e3f6ba-59e3-4bb2-82d5-7b3598aab5e2">
 
-上图中蓝色的部分代表官方翻译的部分，绿色的部分代表我翻译的部分。其中对 Plex Media Server 的翻译将应用到全平台的 Plex、Plex Web、Plex HTPC、Plexamp 和 Plex Dash 等应用程序上，对 Web Clients 的翻译将应用到桌面端的 Plex 应用程序上。（翻译将持续更新）
+上图中蓝色的部分代表官方翻译的部分，绿色的部分代表我翻译的部分。其中对 Plex Media Server 的翻译将应用到全平台的 Plex、Plex Web、Plex HTPC、Plexamp 和 Plex Dash 等应用程序上，对 Web Clients 的翻译将应用到桌面端的 Plex 应用程序以及通过 IP 或自定义域名访问的 Plex Web（网页端）上（前提是替换了对应的文件）。（翻译将持续更新）
 
 
 ## 效果展示
@@ -121,7 +121,7 @@ As Plex is a cross-platform application service, there are many contents that ne
 ## Translation Progress
 <img width="100%" alt="进度" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/e7e3f6ba-59e3-4bb2-82d5-7b3598aab5e2">
 
-The blue part in the figure below represents the official translation, while the green part represents my translation. The translation for Plex Media Server will be applied to all-platform applications like Plex, Plex Web, Plex HTPC, Plexamp, and Plex Dash, while the translation for Web Clients will be applied to the desktop Plex application. (Translation will continue to be updated)
+The blue part in the figure below represents the official translation, while the green part represents my translation. The translation for Plex Media Server will be applied to all-platform applications like Plex, Plex Web, Plex HTPC, Plexamp, and Plex Dash, while the translation for Web Clients will be applied to the Plex desktop application as well as Plex Web accessed via IP or custom domain (provided corresponding files are replaced). (Translation will continue to be updated)
 
 
 ## Demo
