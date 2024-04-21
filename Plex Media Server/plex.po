@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-19 11:01\n"
+"PO-Revision-Date: 2024-04-21 10:57\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -136,7 +136,7 @@ msgid "A comma-separated list of URLs (http or https) which are published up to 
 msgstr "发布到 plex.tv 用于发现服务器的 URL（http 或 https）列表，以逗号分隔。"
 
 msgid "A global path to music videos for all music libraries."
-msgstr "所有音乐资料库音乐录影带的全局路径。"
+msgstr "所有音乐资料库音乐视频的全局存储路径。"
 
 msgid "A server restart is required for a change to take effect."
 msgstr "为了让更改生效需要重启服务器。"
@@ -632,7 +632,7 @@ msgid "CPU is not powerful enough to convert this item."
 msgstr "CPU 性能不佳，不能转换此项目。"
 
 msgid "Camera Make"
-msgstr "Camera Make"
+msgstr "相机品牌"
 
 msgid "Camera Model"
 msgstr "相机型号"
@@ -683,7 +683,7 @@ msgid "Checking files"
 msgstr "正在检查文件"
 
 msgid "Choose Cinema Trailers from"
-msgstr "从......上选择电影预告片"
+msgstr "选择电影预告片的获取范围"
 
 msgid "Choose how quickly episodes are removed after the server admin has played them."
 msgstr "选择服务器管理员播放后删除剧集的速度。"
@@ -1171,7 +1171,7 @@ msgid "Enhanced Guide"
 msgstr "增强版指南"
 
 msgid "Enter the full path to the pre-roll video file. If multiple paths separated by commas are entered, videos will be played sequentially. If multiple paths separated by semi-colons are used, a single pre-roll video will be chosen randomly from the list."
-msgstr "输入电影预告的完整路径。 多个路径用逗号分割，视频将按顺序播放。如果多个路径由分号隔开，则随机播放其中一个。"
+msgstr "输入片头视频文件的完整路径。若有多个路径，用逗号分隔，视频将按顺序播放；如果使用分号分隔，则会随机选择一个片头视频进行播放。"
 
 msgid "Episode"
 msgstr "剧集"
@@ -1207,7 +1207,7 @@ msgid "Episode Year"
 msgstr "剧集年份"
 
 msgid "Episode ordering"
-msgstr "剧集排序"
+msgstr "剧集顺序"
 
 msgid "Episode sorting"
 msgstr "剧集排序"
@@ -1402,7 +1402,7 @@ msgid "Getting ready..."
 msgstr "准备中..."
 
 msgid "Global music videos path"
-msgstr "音乐录影带全局路径"
+msgstr "全局音乐视频路径"
 
 msgid "Grabbing"
 msgstr "抓取"
@@ -1471,7 +1471,7 @@ msgid "Home Videos"
 msgstr "家庭视频"
 
 msgid "How the episodes are named on disk."
-msgstr "剧集如何在磁盘上命名。"
+msgstr "按照哪种方式对该节目的剧集文件命名。"
 
 msgid "How the items in the collection are displayed."
 msgstr "如何显示合集中的项目。"
@@ -1483,7 +1483,7 @@ msgid "How to sort the albums for an artist."
 msgstr "艺人专辑的排序方式。"
 
 msgid "How to sort the episodes for this show."
-msgstr "如何对该剧的剧集进行排序。"
+msgstr "按照哪种方式对该节目的剧集显示排序。"
 
 msgid "How to sort the items in the collection."
 msgstr "如何对合集中的项目进行排序。"
@@ -1501,13 +1501,13 @@ msgid "In Progress"
 msgstr "进行中"
 
 msgid "Include Cinema Trailers from movies in my library"
-msgstr "包括我库里的电影预告片"
+msgstr "包含我的资料库中的电影的预告片"
 
 msgid "Include Cinema Trailers from new and upcoming movies in theaters"
-msgstr "包括电影院里新上映或即将上映的电影预告片"
+msgstr "包含新上映和即将上映的院线电影的预告片"
 
 msgid "Include Cinema Trailers from new and upcoming movies on Blu-ray"
-msgstr "包括在 Bluray 上新上映或即将上映的电影预告片"
+msgstr "包含新上映和即将上映的蓝光电影的预告片"
 
 msgid "Include adult content"
 msgstr "允许成人内容"
@@ -1522,7 +1522,7 @@ msgid "Include music libraries in automatic updates"
 msgstr "自动更新操作中包含音乐库更新"
 
 msgid "Include related content from shared libraries"
-msgstr "包括共享媒体库中的相关内容"
+msgstr "包含来自共享资料库的相关内容"
 
 msgid "Include related external content"
 msgstr "包含相关的外部内容"
@@ -1586,7 +1586,7 @@ msgid "More from {1}"
 msgstr "更多来自 {1} 的专辑"
 
 msgid "Labels"
-msgstr "标签"
+msgstr "标记"
 
 msgid "Language to use for item metadata such as synopsis and title."
 msgstr "项目元数据（例如标题和简介）使用的语言。"
@@ -1798,7 +1798,7 @@ msgid "Most Popular Tracks"
 msgstr "最热曲目"
 
 msgid "Movie pre-roll video"
-msgstr "电影预告"
+msgstr "电影片头视频"
 
 msgid "Movies"
 msgstr "电影"
@@ -1843,7 +1843,7 @@ msgid "Network"
 msgstr "播出平台"
 
 msgid "Never"
-msgstr "永不"
+msgstr "禁用"
 
 msgid "New Airings Only"
 msgstr "仅限新播出"
@@ -1993,7 +1993,7 @@ msgid "Only show trailers"
 msgstr "仅显示预告片"
 
 msgid "Only unwatched movies"
-msgstr "只有未观看的电影"
+msgstr "仅限未观看的电影"
 
 msgid "Optimize database every week"
 msgstr "每周优化数据库"
@@ -2420,7 +2420,7 @@ msgid "Seasons"
 msgstr "季"
 
 msgid "Secure connections"
-msgstr "加密连接"
+msgstr "安全连接"
 
 msgid "Segmented transcoder timeout"
 msgstr "分段转码器超时"
@@ -2507,7 +2507,7 @@ msgid "Show collections and their items"
 msgstr "显示合集和合集中的项目"
 
 msgid "Show in dock"
-msgstr "显示在停靠台"
+msgstr "在程序坞中显示"
 
 msgid "Show related tracks and albums from TIDAL."
 msgstr "显示来自 TIDAL 的相关曲目和专辑。"
@@ -2944,7 +2944,7 @@ msgid "This enables the media server to discover other servers and players on th
 msgstr "这使得媒体服务器可以发现本地网络上的其他服务器和播放器。"
 
 msgid "This feature is Plex Pass only."
-msgstr "此特点仅针对 Plex Pass。"
+msgstr "此功能仅适用于 Plex 通行证用户。"
 
 msgid "This helps us improve your experience."
 msgstr "帮助我们改善您的使用体验。"
@@ -3484,4 +3484,7 @@ msgstr "始终显示"
 
 msgid "Account default"
 msgstr "同账号"
+
+msgid "Always include English language Cinema Trailers for trailers of movies not in my library."
+msgstr "包含不在我的资料库中的电影的英语预告片"
 
