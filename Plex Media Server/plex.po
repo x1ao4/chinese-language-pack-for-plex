@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-21 10:57\n"
+"PO-Revision-Date: 2024-04-23 09:47\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -225,13 +225,13 @@ msgid "Album Genre"
 msgstr "专辑类型"
 
 msgid "Album Last Played"
-msgstr "专辑最近播放"
+msgstr "最后播放的专辑"
 
 msgid "Album Mood"
 msgstr "专辑氛围"
 
 msgid "Album Plays"
-msgstr "专辑播放"
+msgstr "专辑播放次数"
 
 msgid "Album Rating"
 msgstr "专辑评分"
@@ -544,7 +544,7 @@ msgid "Automatically during scheduled maintenance"
 msgstr "在计划维护期间自动执行"
 
 msgid "Autotag"
-msgstr "自动标记"
+msgstr "自动标签"
 
 msgctxt "Autotag"
 msgid "More in {1}"
@@ -879,7 +879,7 @@ msgid "Date Album Added"
 msgstr "专辑添加日期"
 
 msgid "Date Album Released"
-msgstr "专辑发行日期"
+msgstr "专辑发布日期"
 
 msgid "Date Artist Added"
 msgstr "艺人添加日期"
@@ -903,7 +903,7 @@ msgid "Date Taken"
 msgstr "拍摄日期"
 
 msgid "Date Viewed"
-msgstr "查看日期"
+msgstr "观看日期"
 
 msgid "Debug logging enables additional detail in the log files and is helpful in diagnosing problems."
 msgstr "调试日志可以在日志文件中提供更多细节，对诊断问题很有帮助。"
@@ -1086,7 +1086,7 @@ msgid "Downloads not allowed"
 msgstr "不允许下载"
 
 msgid "Duplicate"
-msgstr "建立副本"
+msgstr "副本"
 
 msgid "Duplicates"
 msgstr "副本"
@@ -1183,10 +1183,10 @@ msgid "Episode Duplicate"
 msgstr "剧集副本"
 
 msgid "Episode In Progress"
-msgstr "未完剧集"
+msgstr "观看中的剧集"
 
 msgid "Episode Last Played"
-msgstr "最后播放剧集"
+msgstr "最后播放的剧集"
 
 msgid "Episode Plays"
 msgstr "剧集播放"
@@ -1198,10 +1198,10 @@ msgid "Episode Title"
 msgstr "剧集标题"
 
 msgid "Episode Unmatched"
-msgstr "不匹配的剧集"
+msgstr "未匹配的剧集"
 
 msgid "Episode Unplayed"
-msgstr "未播放剧集"
+msgstr "未播放的剧集"
 
 msgid "Episode Year"
 msgstr "剧集年份"
@@ -1399,7 +1399,7 @@ msgid "Genres"
 msgstr "类型"
 
 msgid "Getting ready..."
-msgstr "准备中..."
+msgstr "准备中"
 
 msgid "Global music videos path"
 msgstr "全局音乐视频路径"
@@ -1498,7 +1498,7 @@ msgid "If hardware acceleration is enabled, this controls whether it's used for 
 msgstr "对编码和解码启用硬件加速。"
 
 msgid "In Progress"
-msgstr "进行中"
+msgstr "观看中"
 
 msgid "Include Cinema Trailers from movies in my library"
 msgstr "包含我的资料库中的电影的预告片"
@@ -1592,10 +1592,10 @@ msgid "Language to use for item metadata such as synopsis and title."
 msgstr "项目元数据（例如标题和简介）使用的语言。"
 
 msgid "Last Episode Date Added"
-msgstr "最后一集的添加日期"
+msgstr "最后一集添加日期"
 
 msgid "Last Played"
-msgstr "最近播放"
+msgstr "最后播放"
 
 msgid "Latest episode"
 msgstr "最新一集"
@@ -1607,7 +1607,7 @@ msgid "Launch plugins in debug mode"
 msgstr "在调试模式下启动插件"
 
 msgid "Lens"
-msgstr "镜片"
+msgstr "镜头"
 
 msgid "Libraries"
 msgstr "资料库"
@@ -2252,7 +2252,7 @@ msgid "Recently Viewed"
 msgstr "最近观看"
 
 msgid "Recently Viewed Episodes"
-msgstr "最近观看过的剧集"
+msgstr "最近观看的剧集"
 
 msgid "Recently Viewed Shows"
 msgstr "最近观看的节目"
@@ -2378,19 +2378,19 @@ msgid "Scanning {1}"
 msgstr "正在扫描 {1}"
 
 msgid "Search Albums..."
-msgstr "搜索专辑..."
+msgstr "搜索专辑"
 
 msgid "Search Artists..."
-msgstr "搜索艺人..."
+msgstr "搜索艺人"
 
 msgid "Search Episodes..."
-msgstr "搜索剧集..."
+msgstr "搜索剧集"
 
 msgid "Search Shows..."
-msgstr "搜索节目..."
+msgstr "搜索节目"
 
 msgid "Search Tracks..."
-msgstr "搜索单曲..."
+msgstr "搜索曲目"
 
 msgid "Search for Albums"
 msgstr "搜索专辑"
@@ -2471,7 +2471,7 @@ msgid "Show"
 msgstr "电视节目"
 
 msgid "Show Actor"
-msgstr "显示演员"
+msgstr "节目演员"
 
 msgid "Show Collection"
 msgstr "节目合集"
@@ -2480,28 +2480,28 @@ msgid "Show Director"
 msgstr "显示导演"
 
 msgid "Show Last Played"
-msgstr "显示最近播放"
+msgstr "最后播放的节目"
 
 msgid "Show Plays"
-msgstr "显示播放"
+msgstr "节目播放次数"
 
 msgid "Show Producer"
 msgstr "节目制片人"
 
 msgid "Show Rating"
-msgstr "显示评分"
+msgstr "节目评分"
 
 msgid "Show Title"
-msgstr "显示标题"
+msgstr "节目标题"
 
 msgid "Show Unmatched"
-msgstr "显示不匹配的"
+msgstr "未匹配的节目"
 
 msgid "Show Writer"
 msgstr "显示编剧"
 
 msgid "Show Year"
-msgstr "显示年份"
+msgstr "节目年份"
 
 msgid "Show collections and their items"
 msgstr "显示合集和合集中的项目"
@@ -2992,13 +2992,13 @@ msgid "Top Unplayed Movies"
 msgstr "未播放的热门电影"
 
 msgid "Track Added At"
-msgstr "曲目添加于"
+msgstr "曲目添加日期"
 
 msgid "Track Last Played"
-msgstr "最后播放曲目"
+msgstr "最后播放的曲目"
 
 msgid "Track Last Rated"
-msgstr "曲目最后评分"
+msgstr "最后评分的曲目"
 
 msgid "Track Last Skipped"
 msgstr "最后跳过的曲目"
@@ -3007,16 +3007,16 @@ msgid "Track Mood"
 msgstr "曲目氛围"
 
 msgid "Track Plays"
-msgstr "曲目播放"
+msgstr "曲目播放次数"
 
 msgid "Track Rating"
 msgstr "曲目评分"
 
 msgid "Track Skips"
-msgstr "跳过曲目"
+msgstr "曲目跳过次数"
 
 msgid "Track Source"
-msgstr "追踪来源"
+msgstr "曲目来源"
 
 msgid "Track Title"
 msgstr "曲目标题"
@@ -3133,7 +3133,7 @@ msgid "Unplayed"
 msgstr "未播放"
 
 msgid "Unplayed Episodes"
-msgstr "未播放剧集"
+msgstr "未播放的剧集"
 
 msgid "Unplayed Videos"
 msgstr "未播放的视频"
@@ -3396,7 +3396,7 @@ msgid "is before"
 msgstr "之前"
 
 msgid "is false"
-msgstr "否定"
+msgstr "非"
 
 msgid "is greater than"
 msgstr "大于"
@@ -3408,7 +3408,7 @@ msgid "is not"
 msgstr "非"
 
 msgid "is true"
-msgstr "确定"
+msgstr "是"
 
 msgid "local detection only"
 msgstr "仅使用本地检测"
@@ -3487,4 +3487,22 @@ msgstr "同账号"
 
 msgid "Always include English language Cinema Trailers for trailers of movies not in my library."
 msgstr "包含不在我的资料库中的电影的英语预告片"
+
+msgid "Unwatched"
+msgstr "未观看"
+
+msgid "Show Last Watched"
+msgstr "最后观看的节目"
+
+msgid "Unwatched Episodes"
+msgstr "未观看的节目"
+
+msgid "Episode Unwatched"
+msgstr "未观看的剧集"
+
+msgid "Track Genre"
+msgstr "曲目类型"
+
+msgid "Last Watched"
+msgstr "最后观看"
 
