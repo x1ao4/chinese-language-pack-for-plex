@@ -18,9 +18,9 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 
 <img width="100%" alt="2" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/ad5d6fb0-b7a0-4b26-8ae2-46da94d785cf">
 
-<img width="100%" alt="3" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/18a11cf2-f1c1-41e6-8d77-fbe6c52d85ab">
+<img width="100%" alt="3" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/ebad1efa-a2f9-4eeb-bba4-6adf0cc3db03">
 
-<img width="100%" alt="4" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/94344a3e-78b4-498f-867c-96b305e22cce">
+<img width="100%" alt="4" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/4fc5e445-08a6-4fd5-a3ab-5cdf01586806">
 
 <img width="100%" alt="5" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/7b755f91-206f-4bd4-ab21-ae5cd877bff0">
 
@@ -37,6 +37,12 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 <img width="100%" alt="11" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/68ca7f6a-987a-4e1d-a8c7-4d42a532cdc0">
 
 <img width="100%" alt="12" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/2be900ea-bf89-424c-bfdd-2ba601768130">
+
+<img width="100%" alt="13" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/1ebe644b-69ca-40da-8947-b0ce701dd958">
+
+<img width="100%" alt="14" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/b4f3d90b-1b0d-4252-a073-2b70bb005b45">
+
+<img width="100%" alt="15" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/1d8f8894-bfee-4227-8a25-1ce2cc494351">
 
 ## 支持平台
 ### Plex Desktop
@@ -131,9 +137,9 @@ Below are partial comparisons of translated content. The left side shows the Ple
 
 <img width="100%" alt="2" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/ad5d6fb0-b7a0-4b26-8ae2-46da94d785cf">
 
-<img width="100%" alt="3" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/18a11cf2-f1c1-41e6-8d77-fbe6c52d85ab">
+<img width="100%" alt="3" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/ebad1efa-a2f9-4eeb-bba4-6adf0cc3db03">
 
-<img width="100%" alt="4" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/94344a3e-78b4-498f-867c-96b305e22cce">
+<img width="100%" alt="4" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/4fc5e445-08a6-4fd5-a3ab-5cdf01586806">
 
 <img width="100%" alt="5" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/7b755f91-206f-4bd4-ab21-ae5cd877bff0">
 
@@ -150,6 +156,12 @@ Below are partial comparisons of translated content. The left side shows the Ple
 <img width="100%" alt="11" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/68ca7f6a-987a-4e1d-a8c7-4d42a532cdc0">
 
 <img width="100%" alt="12" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/2be900ea-bf89-424c-bfdd-2ba601768130">
+
+<img width="100%" alt="13" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/1ebe644b-69ca-40da-8947-b0ce701dd958">
+
+<img width="100%" alt="14" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/b4f3d90b-1b0d-4252-a073-2b70bb005b45">
+
+<img width="100%" alt="15" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/1d8f8894-bfee-4227-8a25-1ce2cc494351">
 
 ## Supported Platforms
 ### Plex Desktop
