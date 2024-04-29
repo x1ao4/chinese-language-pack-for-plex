@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-23 09:47\n"
+"PO-Revision-Date: 2024-04-29 15:00\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1849,7 +1849,7 @@ msgid "New Airings Only"
 msgstr "仅限新播出"
 
 msgid "New Releases on TIDAL"
-msgstr "TIDAL新上映"
+msgstr "TIDAL 最新发布"
 
 msgid "New Shows On Tonight"
 msgstr "今晚新增电视节目"
@@ -1981,7 +1981,7 @@ msgid "On Deck Content"
 msgstr "最近关注内容"
 
 msgid "On This Day"
-msgstr "在这天"
+msgstr "历史上的今天"
 
 msgid "On next refresh"
 msgstr "下次刷新时"
@@ -2986,7 +2986,7 @@ msgid "Top Movies in (Genre)"
 msgstr "（类型）中的热门电影"
 
 msgid "Top Rated TV"
-msgstr "评分最高的电视节目"
+msgstr "最受好评的电视节目"
 
 msgid "Top Unplayed Movies"
 msgstr "未播放的热门电影"
@@ -3163,7 +3163,7 @@ msgid "Use hardware-accelerated video encoding"
 msgstr "使用硬件加速编码视频"
 
 msgid "Use language preferences from plex.tv"
-msgstr "使用plex.tv的语言设置"
+msgstr "使用 plex.tv 的语言设置"
 
 msgid "Use local assets"
 msgstr "使用本地资源"
@@ -3275,7 +3275,7 @@ msgstr "年份"
 
 msgctxt "Year"
 msgid "Photos from {1}"
-msgstr "来自 {1} 的照片"
+msgstr "{1} 年的照片"
 
 msgctxt "Year"
 msgid "This Day in {1}"
@@ -3287,7 +3287,7 @@ msgstr "本月在 {1}"
 
 msgctxt "Year"
 msgid "Top Albums from {1}"
-msgstr "{1} 的热门专辑"
+msgstr "{1} 年的热门专辑"
 
 msgctxt "Year"
 msgid "Videos from {1}"
@@ -3505,4 +3505,13 @@ msgstr "曲目类型"
 
 msgid "Last Watched"
 msgstr "最后观看"
+
+msgid "Recently Watched Movies"
+msgstr "最近观看的电影"
+
+msgid "Top Unwatched Movies"
+msgstr "未观看的热门电影"
+
+msgid "Recently Watched Episodes"
+msgstr "最近观看的剧集"
 
