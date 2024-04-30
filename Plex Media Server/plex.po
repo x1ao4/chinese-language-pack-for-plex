@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-29 15:00\n"
+"PO-Revision-Date: 2024-04-30 15:24\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -180,7 +180,7 @@ msgid "After a day"
 msgstr "一天后"
 
 msgid "After a week"
-msgstr "一个星期后"
+msgstr "一周后"
 
 msgid "Airing"
 msgstr "播出"
@@ -1222,13 +1222,13 @@ msgid "Episodes"
 msgstr "剧集"
 
 msgid "Episodes added in the past 3 days"
-msgstr "过去三天添加的剧集"
+msgstr "最近三天添加的剧集"
 
 msgid "Episodes added in the past 30 days"
-msgstr "过去三十天添加的剧集"
+msgstr "最近一个月添加的剧集"
 
 msgid "Episodes added in the past 7 days"
-msgstr "过去七天添加的剧集"
+msgstr "最近一周添加的剧集"
 
 msgid "Error communicating with provider"
 msgstr "与内容提供来源通讯错误"
@@ -2453,7 +2453,7 @@ msgid "Set the maximum number of episodes to download for the show."
 msgstr "设置要下载的最大剧集数。"
 
 msgid "Set the maximum number of unplayed episodes to keep for the show."
-msgstr "设置此剧集中未播放剧集的最大数量。"
+msgstr "设置为该节目保留未播放剧集的集数的最大值。"
 
 msgid "Set the progress percentage for video playback at which point the video will be marked as played."
 msgstr "设置视频播放进度的百分比，播放进度达到该值时视频将被标记为已播放。"
@@ -3514,4 +3514,10 @@ msgstr "未观看的热门电影"
 
 msgid "Recently Watched Episodes"
 msgstr "最近观看的剧集"
+
+msgid "Choose how quickly episodes are removed after the server admin has watched them."
+msgstr "设置在服务器管理员看完剧集多久后删除剧集。"
+
+msgid "After a month"
+msgstr "一个月后"
 
