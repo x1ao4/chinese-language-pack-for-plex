@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-04-30 15:24\n"
+"PO-Revision-Date: 2024-05-06 13:36\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1834,7 +1834,7 @@ msgid "My Upcoming Shows"
 msgstr "我即将到来的剧集"
 
 msgid "Name"
-msgstr "名字"
+msgstr "标题"
 
 msgid "Neither direct play nor conversion is available."
 msgstr "直接播放或转换功能都不可用。"
