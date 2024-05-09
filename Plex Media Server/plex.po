@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-05-06 13:36\n"
+"PO-Revision-Date: 2024-05-09 17:24\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -937,7 +937,7 @@ msgid "December"
 msgstr "十二月"
 
 msgid "Decide whether to use end credits markers to determine the 'played' state of video items. When markers are not available the selected threshold percentage will be used."
-msgstr "是否使用片尾名单标记来确定视频项目的 \"已播放 \"状态。当标记不可用时，将使用选定的阈值百分比。"
+msgstr "是否使用片尾标记来判断视频项目的 “已播放” 状态。当标记不可用时，将使用设置的阈值百分比。"
 
 msgid "Default"
 msgstr "默认"
@@ -1528,7 +1528,7 @@ msgid "Include related external content"
 msgstr "包含相关的外部内容"
 
 msgid "Include season premieres in Continue Watching"
-msgstr "在继续播放中包含季首播"
+msgstr "在继续观看中包含季首播"
 
 msgid "Increase the recording duration by adding minutes after the scheduled time."
 msgstr "通过在预定时间之后添加分钟来增加录制持续时间。"
@@ -1647,7 +1647,7 @@ msgid "Limit to channel"
 msgstr "限制频道"
 
 msgid "Limits the number of shows which will appear Continue Watching. Setting it too high can affect performance."
-msgstr "限制继续播放列表的最多显示数目，设置过大可能会影响性能。"
+msgstr "限制 “继续观看” 中显示项目的数量，设置的数量过多可能会影响性能。"
 
 msgid "Lineup is from a different provider."
 msgstr "节目单来自另一个内容供应商。"
@@ -1716,7 +1716,7 @@ msgid "Marker source"
 msgstr "标记来源"
 
 msgid "Maximum number of Continue Watching items which will appear."
-msgstr "继续播放项目的最多显示数目。"
+msgstr "继续观看中显示项目的数量"
 
 msgid "Maximum number of simultaneous streams each user is allowed when not on the local network."
 msgstr "不在本地网络上时，每个用户同时允许的最大串流数。"
@@ -1737,7 +1737,7 @@ msgid "Media server tokens can be used to gain access to library content. Don't 
 msgstr "媒体服务器令牌可用于获取访问库内容的权限。请勿公开共享包含令牌的日志。需重启服务器以使更改生效。"
 
 msgid "Media that has not been watched in this many weeks will not appear in Continue Watching."
-msgstr "不在「继续观看」里显示较长时间未观看的媒体。"
+msgstr "在设置期限内未进行观看的项目将自动从 “继续观看” 中移除。"
 
 msgid "Medium"
 msgstr "中速"
@@ -2318,7 +2318,7 @@ msgid "Release date"
 msgstr "发布日期"
 
 msgid "Remember and resume from your previous listening position. Useful for libraries with long-form audio content."
-msgstr "记住上次收听位置并从此继续播放，这对拥有长内容音频的资料库很有用。"
+msgstr "记录播放进度并在下一次播放时接着播放。对于拥有长音频内容的资料库非常有用。"
 
 msgid "Remixes"
 msgstr "重混唱片"
@@ -2375,7 +2375,7 @@ msgid "Scanning"
 msgstr "正在扫描"
 
 msgid "Scanning {1}"
-msgstr "正在扫描 {1}"
+msgstr "正在扫描{1}"
 
 msgid "Search Albums..."
 msgstr "搜索专辑"
@@ -2456,7 +2456,7 @@ msgid "Set the maximum number of unplayed episodes to keep for the show."
 msgstr "设置为该节目保留未播放剧集的集数的最大值。"
 
 msgid "Set the progress percentage for video playback at which point the video will be marked as played."
-msgstr "设置视频播放进度的百分比，播放进度达到该值时视频将被标记为已播放。"
+msgstr "设置视频播放进度的百分比，当播放进度到达该值时视频将被标记为 “已观看”。"
 
 msgid "Set the size of the main database cache size in MB. Changes take effect when server is restarted."
 msgstr "设置主数据库缓存大小，单位是 MB。更改在服务器重新启动时生效。"
@@ -2618,7 +2618,7 @@ msgid "Stations"
 msgstr "电台"
 
 msgid "Store track progress"
-msgstr "存储跟踪进度"
+msgstr "存储播放进度"
 
 msgid "Streaming Session doesn't exist or timed out."
 msgstr "流会话不存在或超时。"
@@ -3211,10 +3211,10 @@ msgid "Video"
 msgstr "视频"
 
 msgid "Video play completion behaviour"
-msgstr "视频播放完成后的操作"
+msgstr "视频完播的判断方式"
 
 msgid "Video played threshold"
-msgstr "视频播放阈值"
+msgstr "视频完播的阈值"
 
 msgid "Video preview thumbnail frame duration"
 msgstr "视频预览缩略图的帧持续时间"
@@ -3232,7 +3232,7 @@ msgid "Webhooks"
 msgstr "Webhooks"
 
 msgid "Weeks to consider for Continue Watching"
-msgstr "继续播放中持续展示的周数"
+msgstr "继续观看中持续显示项目的周数"
 
 msgid "What's On"
 msgstr "打开的"
@@ -3520,4 +3520,19 @@ msgstr "设置在服务器管理员看完剧集多久后删除剧集。"
 
 msgid "After a month"
 msgstr "一个月后"
+
+msgid "Decide whether to use end credits markers to determine the 'watched' state of video items. When markers are not available the selected threshold percentage will be used."
+msgstr "是否使用片尾标记来判断视频项目的 “已观看” 状态。当标记不可用时，将使用设置的阈值百分比。"
+
+msgid "at selected threshold percentage"
+msgstr "在播放进度到达设置的阈值百分比时"
+
+msgid "at final credits marker position"
+msgstr "在播放进度到达最后一个片尾标记位置时"
+
+msgid "at first credits marker position"
+msgstr "在播放进度到达第一个片尾标记位置时"
+
+msgid "earliest between threshold percent and first credits marker"
+msgstr "在播放进度到达设置的阈值百分比或第一个片尾标记位置时"
 
