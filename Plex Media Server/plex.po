@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-05-09 17:24\n"
+"PO-Revision-Date: 2024-05-14 16:06\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1570,10 +1570,10 @@ msgid "Kids"
 msgstr "儿童"
 
 msgid "Kids On Later"
-msgstr "稍后观看儿童节目"
+msgstr "稍后播出的儿童节目"
 
 msgid "Kids On Now"
-msgstr "当前儿童节目"
+msgstr "正在播出的儿童节目"
 
 msgid "LAN Networks"
 msgstr "局域网网络"
@@ -1804,16 +1804,16 @@ msgid "Movies"
 msgstr "电影"
 
 msgid "Movies On Later"
-msgstr "稍后观看电影"
+msgstr "稍后播出的电影"
 
 msgid "Movies On Now"
-msgstr "当前电影节目"
+msgstr "正在播出的电影"
 
 msgid "Movies You Might Like"
 msgstr "您可能喜欢的电影"
 
 msgid "Movies on Now"
-msgstr "正在播放的电影"
+msgstr "正在播出的电影"
 
 msgid "Moving files"
 msgstr "移动文件"
@@ -1831,7 +1831,7 @@ msgid "Music on TIDAL"
 msgstr "TIDAL平台音乐"
 
 msgid "My Upcoming Shows"
-msgstr "我即将到来的剧集"
+msgstr "即将播出的电视节目"
 
 msgid "Name"
 msgstr "标题"
@@ -1852,7 +1852,7 @@ msgid "New Releases on TIDAL"
 msgstr "TIDAL 最新发布"
 
 msgid "New Shows On Tonight"
-msgstr "今晚新增电视节目"
+msgstr "今晚播出的电视节目"
 
 msgid "New and Repeat Airings"
 msgstr "新的和重复的播放"
@@ -1867,13 +1867,13 @@ msgid "News"
 msgstr "新闻"
 
 msgid "News On Later"
-msgstr "稍后阅读新闻"
+msgstr "稍后播出的新闻节目"
 
 msgid "News On Now"
-msgstr "当前新闻"
+msgstr "正在播出的新闻"
 
 msgid "News on Now"
-msgstr "正在播放的新闻"
+msgstr "正在播出的新闻"
 
 msgid "Next 10 unplayed episodes"
 msgstr "接下来未播放的 10 集"
@@ -2192,10 +2192,10 @@ msgid "Recent Albums"
 msgstr "最近专辑"
 
 msgid "Recent Channels"
-msgstr "最近的频道"
+msgstr "最近观看的频道"
 
 msgid "Recent Playlists"
-msgstr "最近播放列表"
+msgstr "最近播放的播放列表"
 
 msgid "Recently Added"
 msgstr "最近添加"
@@ -2255,7 +2255,7 @@ msgid "Recently Viewed Episodes"
 msgstr "最近观看的剧集"
 
 msgid "Recently Viewed Shows"
-msgstr "最近观看的节目"
+msgstr "最近观看的电视节目"
 
 msgid "Recommended"
 msgstr "推荐"
@@ -2528,13 +2528,13 @@ msgid "Shows"
 msgstr "综艺秀"
 
 msgid "Shows On Now"
-msgstr "当前电视节目"
+msgstr "正在播出的电视节目"
 
 msgid "Shows You Might Like"
 msgstr "您可能喜欢的节目"
 
 msgid "Shows on Now"
-msgstr "正在播放的节目"
+msgstr "正在播出的电视节目"
 
 msgid "Shutter Speed"
 msgstr "快门速度"
@@ -2597,13 +2597,13 @@ msgid "Sports"
 msgstr "体育"
 
 msgid "Sports On Later"
-msgstr "稍后观看体育节目"
+msgstr "稍后播出的体育节目"
 
 msgid "Sports On Now"
-msgstr "当前电视节目"
+msgstr "正在播出的体育节目"
 
 msgid "Sports on Now"
-msgstr "正在播放的体育"
+msgstr "正在播出的体育节目"
 
 msgid "Start Listening"
 msgstr "开始聆听"
@@ -3238,10 +3238,10 @@ msgid "What's On"
 msgstr "打开的"
 
 msgid "What's On Later"
-msgstr "待看清单"
+msgstr "稍后播出"
 
 msgid "What's On Now"
-msgstr "当前在播放的节目"
+msgstr "正在播出"
 
 msgid "When changes to library folders are detected, only scan the folder that changed."
 msgstr "当检测到库文件夹有更改时，只扫描被更改的文件夹。"
