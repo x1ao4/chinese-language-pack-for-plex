@@ -6,7 +6,7 @@ Plex 的本地化工作并不是由专业团队完成的，而是通过翻译平
 因为 Plex 是一个跨平台的应用服务，有很多内容需要分平台进行翻译，比如安卓端、苹果端、网页端、服务器等都有单独的翻译项目，对于未审核（未复核）的字符串，我们是可以自由进行翻译和修改的，但是已审核（已复核）的字符串我们就无权修改了，如上所述，有很多已审核的翻译是存在问题的，由于我们无权进行修改，通过官方渠道似乎没有什么办法干预，同时也因为未审核的字符串可以被随意修改，直接在官方项目上修改或提交翻译也可能被其他人再次改动，所以我决定自己建立一个 Plex 的翻译项目，按照我认为规范的方式对 Plex 进行汉化，并将汉化后的语言包共享给大家使用。
 
 ## 翻译进度
-<img width="100%" alt="进度" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/a412f0d6-7625-44a0-85b0-3783005a2f1e">
+<img width="100%" alt="进度" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/67d1ad3e-d4fb-4e0a-b3ae-74d786091a50">
 
 上图中蓝色的部分代表官方翻译的部分，绿色的部分代表我翻译的部分。其中对 Plex Media Server 的翻译将应用到全平台的 Plex、Plex Web、Plex HTPC、Plexamp 和 Plex Dash 等应用程序上，对 Web Clients 的翻译将应用到桌面端的 Plex 应用程序以及通过 IP 或自定义域名访问的 Plex Web（网页端）上。（翻译将持续更新）
 
@@ -125,7 +125,7 @@ To my knowledge, the Simplified Chinese translation section for Plex has been wi
 As Plex is a cross-platform application service, there are many contents that need to be translated per platform, such as Android, Apple, web, and server. For untranslated (unreviewed) strings, we are free to translate and modify them. However, for reviewed (approved) strings, we don't have the authority to make changes. As mentioned earlier, many approved translations have issues, and since we don't have the right to modify them, there seems to be no way to intervene through official channels. Additionally, since untranslated strings can be freely modified, directly modifying or submitting translations on the official project might be subject to further changes by others. Therefore, I have decided to create my own Plex translation project, adhering to what I consider standard practices for Plex localization, and share the translated language pack with everyone.
 
 ## Translation Progress
-<img width="100%" alt="进度" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/a412f0d6-7625-44a0-85b0-3783005a2f1e">
+<img width="100%" alt="进度" src="https://github.com/x1ao4/plex-locale-zhcn/assets/112841659/67d1ad3e-d4fb-4e0a-b3ae-74d786091a50">
 
 The blue part in the figure below represents the official translation, while the green part represents my translation. The translation for Plex Media Server will be applied to all-platform applications like Plex, Plex Web, Plex HTPC, Plexamp, and Plex Dash, while the translation for Web Clients will be applied to the Plex desktop application as well as Plex Web accessed via IP or custom domain. (Translation will continue to be updated)
 
