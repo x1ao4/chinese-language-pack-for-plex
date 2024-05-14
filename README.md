@@ -115,6 +115,13 @@ C:\Program Files\Plex\Plex Media Server\Resources\locale\zh_CN\LC_MESSAGES/plex.
 - 建议在替换文件前先备份你原有的 `zh.json` 和 `plex.mo` 文件，以便你能够退回官方版本（如果有需要）。
 - 语言包会持续更新，你可以关注本项目，及时获取最新版本，根据需要，某些翻译可能会在后续版本中变更。
 - 更新 Plex 桌面客户端或 Plex Media Server 版本后会重置语言包，请在更新版本后重新替换语言包。
+
+## 赞赏
+如果你觉得这个项目对你有用，可以请我喝杯咖啡。如果你喜欢这个项目，可以给我一个⭐️。谢谢你的支持！
+
+<img width="399" alt="赞赏" src="https://github.com/x1ao4/plex-mpv/assets/112841659/2eed25d0-d98f-4ffd-962e-aefec171b458">
+<br>
+<br>
 <br>
 
 # plex-locale-zhcn
@@ -234,3 +241,8 @@ C:\Program Files\Plex\Plex Media Server\Resources\locale\zh_CN\LC_MESSAGES/plex.
 - It is recommended to back up your original `zh.json` and `plex.mo` files before replacing them so that you can revert to the official version if needed.
 - The language pack will be continuously updated. You can star this repository to get the latest version promptly. Certain translations may change in subsequent versions as needed.
 - After updating the Plex desktop client or Plex Media Server version, the language pack will be reset. Please replace the language pack again after updating the version.
+
+## Support
+If you found this helpful, consider buying me a coffee or giving it a ⭐️. Thanks for your support!
+
+<img width="399" alt="赞赏" src="https://github.com/x1ao4/plex-mpv/assets/112841659/2eed25d0-d98f-4ffd-962e-aefec171b458">
