@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-05-14 16:06\n"
+"PO-Revision-Date: 2024-05-29 11:14\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -723,7 +723,7 @@ msgstr "合集"
 
 msgctxt "Collection"
 msgid "{1} Collection"
-msgstr "{1} 合集"
+msgstr "{1}合集"
 
 msgid "Collection Mode"
 msgstr "合集模式"
@@ -1386,7 +1386,7 @@ msgstr "更多 {1} 中的内容"
 
 msgctxt "Genre"
 msgid "Top Movies in {1}"
-msgstr "{1} 中的热门电影"
+msgstr "{1}中的热门电影"
 
 msgctxt "Genre"
 msgid "{1} Radio"
@@ -3279,11 +3279,11 @@ msgstr "{1} 年的照片"
 
 msgctxt "Year"
 msgid "This Day in {1}"
-msgstr "这一天在{1}"
+msgstr "{1} 年的今天"
 
 msgctxt "Year"
 msgid "This Month in {1}"
-msgstr "本月在 {1}"
+msgstr "{1} 年的这个月"
 
 msgctxt "Year"
 msgid "Top Albums from {1}"
@@ -3432,7 +3432,7 @@ msgid "video"
 msgstr "视频"
 
 msgid "{1} Collection"
-msgstr "{1} 合集"
+msgstr "{1}合集"
 
 msgid "{1} Star"
 msgstr "{1} 颗星"
