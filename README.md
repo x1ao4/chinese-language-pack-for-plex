@@ -119,4 +119,4 @@ C:\Program Files\Plex\Plex Media Server\Resources\locale\zh_CN\LC_MESSAGES/plex.
 ## 赞赏
 如果你觉得这个项目对你有用，可以请我喝杯咖啡。如果你喜欢这个项目，可以给我一个⭐️。谢谢你的支持！
 
-<img width="399" alt="赞赏" src="https://github.com/x1ao4/chinese-language-pack-for-plex/assets/112841659/8ef2b8d8-837b-42d9-9827-5a2663c91de7">
+<img width="399" alt="赞赏" src="https://github.com/x1ao4/chinese-language-pack-for-plex/assets/112841659/b6d4659d-3374-485e-90e9-79670042c028">
