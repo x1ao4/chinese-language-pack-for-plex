@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-05-29 11:14\n"
+"PO-Revision-Date: 2024-09-20 11:32\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1327,10 +1327,10 @@ msgid "Folders"
 msgstr "文件夹"
 
 msgid "For all items"
-msgstr "对于所有项目"
+msgstr "应用于所有项目"
 
 msgid "For recorded items"
-msgstr "对于记录项目"
+msgstr "应用于录制项目"
 
 msgid "Forced"
 msgstr "强制"
@@ -1342,7 +1342,7 @@ msgid "Friendly name"
 msgstr "易记的名字"
 
 msgid "Generate ad markers for items in this library."
-msgstr "为该库中的项目生成广告标记。"
+msgstr "为此资料库中的项目生成广告标记。"
 
 msgid "Generate chapter thumbnails"
 msgstr "生成章节缩略图"
@@ -3535,4 +3535,16 @@ msgstr "在播放进度到达第一个片尾标记位置时"
 
 msgid "earliest between threshold percent and first credits marker"
 msgstr "在播放进度到达设置的阈值百分比或第一个片尾标记位置时"
+
+msgid "Enable voice activity detection"
+msgstr "启用语音活动检测"
+
+msgid "Detect voice activity for items in this library when enabled in server settings. This is required for subtitle auto-sync functionality."
+msgstr "在服务器设置中启用了该功能时，为此资料库中的项目检测语音活动。需要启用该功能才能使用自动同步字幕功能。"
+
+msgid "Generate voice activity data"
+msgstr "生成语音活动数据"
+
+msgid "Detects voice activity data for movies and episodes. This is used to help syncronize subtitles to the audio track. This detection can be toggled per-library by editing the individual library and navigating to the advanced section."
+msgstr "检测电影和剧集中的语音活动数据，用于帮助同步字幕和音轨。您可以在每个媒体库的高级设置中单独启用或关闭此功能。"
 
