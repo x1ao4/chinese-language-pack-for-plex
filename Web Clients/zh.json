@@ -947,7 +947,7 @@
   "Help": "帮助",
   "Help friends discover you on Plex with whatever name that you’re best known by. For instance: your full name or a nickname.": "使用你最熟悉的名称帮助你的朋友在 Plex 上找到你的帐户。例如：你的全名或是昵称。",
   "Help us improve everyone's Plex experience by sending anonymous usage data.": "通过发送匿名使用数据帮助我们改善每个人的Plex体验。",
-  "Help us out by following {1}our guide{2} to naming and organizing your media.": "请按{1}操作指导{2}来帮助我们命名和组织您的媒体文件。",
+  "Help us out by following {1}our guide{2} to naming and organizing your media.": "请按照{1}我们的指南{2}来命名和整理您的媒体文件。",
   "Help us translate this app into your language {1}here{2}.": "{1}点此{2}帮助我们把这个应用翻译成您的语言。",
   "Help your friends make new friends of their own. Sharing your friends list helps anyone sending you a friend request know they've found the right person.": "帮助您的好友结交新朋友。分享您的好友列表可以方便任何向你发送好友申请的人知道他们找到了对的人。",
   "Hidden Account": "隐藏账户",
@@ -1951,7 +1951,7 @@
   "Step Backward (10 minutes)": "向后10分钟",
   "Step Forward (10 minutes)": "向前10分钟",
   "Stereo": "环绕声",
-  "Still think Elton is saying “Hold me closer, Tony Danza”? With a Plex Pass, enjoy timed lyrics (when available) to your favorite songs for the ultimate sing-along… with the right words!": "还觉得埃尔顿在说 \"抱紧我，托尼·丹扎\"吗？使用 Plex 通行证，当有歌词时您可以享受您最喜爱的歌曲的歌词，让您的歌声达到极致......有了正确的歌词，您就可以尽情地歌唱了。",
+  "Still think Elton is saying “Hold me closer, Tony Danza”? With a Plex Pass, enjoy timed lyrics (when available) to your favorite songs for the ultimate sing-along… with the right words!": "还在以为艾尔顿 · 约翰唱的是 “Hold me closer, Tony Danza”？有了 Plex 通行证，您可以享受喜爱歌曲的动态歌词（如果有），让您用正确的歌词尽情合唱！",
   "Stop": "停止",
   "Stop Playback": "停止播放",
   "Stop Sharing": "停止共享",
@@ -2270,7 +2270,7 @@
   "Time Format": "时间格式",
   "Time to fill in the blanks": "是时候填补空白了",
   "Time to get watching!": "该看电视了！",
-  "Timed Lyrics": "定时歌词",
+  "Timed Lyrics": "动态歌词",
   "Timeline": "时间轴",
   "Tiny": "最小",
   "Tip:": "提示：",
@@ -2568,7 +2568,6 @@
   "You can also easily remove items from your Watchlist on the details page or via the context menu on the poster in content rows.": "通过项目的详情页面，或是项目海报呼出的菜单，您都可以轻松地把项目从关注列表中移除。",
   "You can change this setting at any time.": "您随时可以修改这个设置。",
   "You can choose to delete certain data stored with Plex.": "您可以选择删除存储在 Plex 中的某些数据。",
-  "You can control how watched indicators display on certain personal media types. Watched indicators are always shown for episode and season list items on detail pages, regardless of the setting below.": "您可以为不同类型的个人媒体单独设置观看状态角标的显示方式。无论如何设置，详情页面的季列表和剧集都会显示观看状态角标。",
   "You can control who can find your account when searching for friends on Plex or viewing someone else's friend list. Anyone who knows your Plex username can still grant you access to their library regardless of the setting chosen below.": "您可以控制在 Plex 上搜索好友或查看他人的好友列表时，谁能找到您的账号。无论您如何设置，任何知道您的 Plex 用户名的用户都依然可以授予您他们的资料库的访问权限。",
   "You can find additional documentation, guides and FAQs as well as our friendly Community Forums among our {openSupportLink}support resources{closeSupportLink}.": "您可以在我们的{openSupportLink}支持资源{closeSupportLink}中找到附加文档、指南和常见问题解答以及友好社区论坛。",
   "You can link your Google, Facebook, or Apple account to simplify signing in to Plex.": "您可以联系您的 Google、Facebook 或 Apple 帐户以简化 Plex 登录。",
@@ -2899,5 +2898,10 @@
   "Edition": "版本",
   "Styles": "风格",
   "Captured Time": "拍摄时间",
-  "Album Artist": "专辑艺人"
+  "Album Artist": "专辑艺人",
+  "You can control how watched indicators display on certain personal media types": {
+    " Watched indicators are always shown for episode and season list items on detail pages, regardless of this setting": {
+      "": "您可以为不同类型的个人媒体单独设置观看状态角标的显示方式。无论如何设置，详情页面的季和剧集都会显示观看状态角标。"
+    }
+  }
 }
