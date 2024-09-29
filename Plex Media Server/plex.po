@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plex-locale-zhcn\n"
-"PO-Revision-Date: 2024-09-20 11:32\n"
+"PO-Revision-Date: 2024-09-29 14:26\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -330,10 +330,10 @@ msgid "Always the server admin user"
 msgstr "始终是服务器管理员"
 
 msgid "Amount in past seconds to retain before pruning segments from a transcode."
-msgstr "在对转码器进行节流前缓冲所用的秒数"
+msgstr "在对转码器进行节流前缓冲的秒数。"
 
 msgid "Amount in seconds to buffer before throttling the transcoder."
-msgstr "在对转码器进行节流前缓冲所用的秒数"
+msgstr "在对转码器进行节流前缓冲的秒数。"
 
 msgid "An error occurred"
 msgstr "出现错误"
@@ -716,7 +716,7 @@ msgid "Client stopped playback."
 msgstr "客户端已停止播放。"
 
 msgid "Client-specific configuration settings for the DLNA server."
-msgstr "DLNA 服务器的客户特定的配置设置。"
+msgstr "DLNA 服务器的客户端特定配置设置。"
 
 msgid "Collection"
 msgstr "合集"
@@ -982,7 +982,7 @@ msgid "Detect commercials and mark for skip"
 msgstr "检测广告并标记为跳过"
 
 msgid "Detecting intros"
-msgstr "正在分析片头"
+msgstr "正在检测片头"
 
 msgid "Detects movie and episode end credits."
 msgstr "检测电影和电视节目的片尾。"
@@ -1026,7 +1026,7 @@ msgid "Disable capability checking"
 msgstr "禁用功能检查"
 
 msgid "Disable transcoding of the video stream in transcoder operations. With this set, the transcoder may still transcode audio as well as remux video."
-msgstr "在转码器运行时禁用视频串流转码。设定此项后，转码器可能会转码音频和再封装视频。"
+msgstr "在转码操作中禁用视频流的转码。设置后，转码器仍然可以转码音频或重新封装视频。"
 
 msgid "Disable video stream transcoding"
 msgstr "禁用视频流转码"
@@ -1044,7 +1044,7 @@ msgid "Display notifications"
 msgstr "显示通知"
 
 msgid "Display notifications when updating libraries."
-msgstr "更新媒体库时显示通知。"
+msgstr "更新资料库时显示通知。"
 
 msgid "DoVi"
 msgstr "DoVi"
@@ -1098,7 +1098,7 @@ msgid "Duration in minutes to use when transcoding something with an unknown dur
 msgstr "在未知持续时间的情况下转换某些东西的代码时所使用的时长（以分钟为单位）。"
 
 msgid "Duration in seconds of DLNA Server SSDP announcement lease time."
-msgstr "DLNA Server SSDP 公告租用时间的持续时长(以秒为单位)。"
+msgstr "DLNA 服务器 SSDP 公告租用时间的持续时长（以秒为单位）。"
 
 msgid "Edition"
 msgstr "版本"
@@ -1495,7 +1495,7 @@ msgid "Icons offered by DLNA server when devices request server description."
 msgstr "当设备请求服务器说明时，图标由 DLNA 服务器提供。"
 
 msgid "If hardware acceleration is enabled, this controls whether it's used for encoding, in addition to decoding."
-msgstr "对编码和解码启用硬件加速。"
+msgstr "如果启用了硬件加速，该选项将决定它是否也用于编码，而不仅仅是解码。"
 
 msgid "In Progress"
 msgstr "观看中"
@@ -1638,7 +1638,7 @@ msgid "Limit remote stream bitrate"
 msgstr "限制远程串流码率"
 
 msgid "Limit the number of simultaneous video transcode streams your server can utilize"
-msgstr "限制服务器最大可同时视频转码的数量"
+msgstr "限制服务器同时进行视频转码的最大数量。"
 
 msgid "Limit to airing time"
 msgstr "限制播放时间"
@@ -1722,7 +1722,7 @@ msgid "Maximum number of simultaneous streams each user is allowed when not on t
 msgstr "不在本地网络上时，每个用户同时允许的最大串流数。"
 
 msgid "Maximum simultaneous video transcode"
-msgstr "最大同时视频转码"
+msgstr "最大同时视频转码数量"
 
 msgid "Maximum video output resolution for the transcoder"
 msgstr "视频转码输出的最大分辨率"
@@ -2081,7 +2081,7 @@ msgid "Plex Media Server is in an unknown state."
 msgstr "Plex 媒体服务器处于未知状态。"
 
 msgid "Plex Media Server will attempt to use hardware-accelerated video codecs when encoding and decoding video. Hardware acceleration can make transcoding faster and allow more simultaneous video transcodes, but it can also reduce video quality and compatibility."
-msgstr "在编码和解码视频时，Plex Media Server将尝试使用硬件加速的视频编解码器。硬件加速可以使转码速度更快，并允许更多的同时视频转码，但同时会降低视频质量和兼容性。"
+msgstr "Plex 媒体服务器将在编码和解码视频时尝试使用硬件加速视频编解码器。硬件加速可以加快转码速度，并允许更多同时进行的视频转码，但也可能降低视频质量和兼容性。"
 
 msgid "Plex Mixes are not available until the library has finished its first scan."
 msgstr "完成首次扫描前Plex Mix不可用"
@@ -2348,7 +2348,7 @@ msgid "Restrict where content from this library should appear."
 msgstr "限制本媒体库中内容的显示位置。"
 
 msgid "Run a partial scan when changes are detected"
-msgstr "当检测到更改时，启动局部扫描。"
+msgstr "在检测到变更时执行局部扫描"
 
 msgid "Run background transcoding tasks at a lower priority than streaming transcodes"
 msgstr "后台转码任务优先级低于实时视频流转码任务"
@@ -2369,7 +2369,7 @@ msgid "Scan my library automatically"
 msgstr "自动扫描我的资料库"
 
 msgid "Scan my library periodically"
-msgstr "定期扫描我的媒体库"
+msgstr "定期扫描我的资料库"
 
 msgid "Scanning"
 msgstr "正在扫描"
@@ -2698,7 +2698,7 @@ msgid "The Movie Database (Aired)"
 msgstr "The Movie Database (已播出)"
 
 msgid "The Relay allows connections to the server through a proxy relay when the server is not accessible otherwise.  Note: this proxy relay is bandwidth limited"
-msgstr "中转允许服务器不可直连的时候通过代理中转链接到服务器。注意：这个代理中转有带宽限制"
+msgstr "在服务器无法直接访问时，使用中转可以通过代理中继连接到服务器。注意：该代理中继的带宽是有限的。"
 
 msgid "The action cannot be performed on the item in its current state"
 msgstr "在项目的当前状态下无法对其执行此操作"
@@ -2926,7 +2926,7 @@ msgid "This Season"
 msgstr "这一季"
 
 msgid "This allows the server to stream media to DLNA (Digital Living Network Alliance) devices."
-msgstr "此操作允许服务器向 DLNA （数字生活网络联盟）设备传输媒体。"
+msgstr "允许服务器将媒体流传输到 DLNA（数字生活网络联盟）设备。"
 
 msgid "This app cannot play this item. The reason is: {1}."
 msgstr "此应用程序无法播放此项目。原因是：{1}。"
@@ -3064,10 +3064,10 @@ msgid "Trash"
 msgstr "回收站"
 
 msgid "Treat WAN IP As LAN Bandwidth"
-msgstr "将来自广域网的IP视为本地流量"
+msgstr "将来自广域网的 IP 视作局域网 IP 对待"
 
 msgid "Treat incoming requests from this network's WAN IP address as LAN requests in terms of bandwidth.  This often occurs when DNS rebinding protection is in place and clients on the LAN cannot contact the server directly but instead have to go through the WAN IP address."
-msgstr "将来自互联网的传入请求视为本地网络请求。这通常发生在DNS重新绑定保护时和局域网的客户端无法直接与服务器联通，而必须通过广域网时。"
+msgstr "将来自广域网的传入请求视作局域网请求。这种情况通常发生在启用了 DNS 绑定保护时，局域网内的客户端无法直接与服务器联通，而必须通过广域网访问。"
 
 msgid "Tried {1}"
 msgstr "尝试 {1}"
@@ -3196,7 +3196,7 @@ msgid "User currently viewing the content"
 msgstr "正在浏览该内容的用户"
 
 msgid "Value is in minutes. Terminate any sessions which have been paused for a longer time than specified amount of time.  Audio-only sessions and live sessions are excluded"
-msgstr "单位为分钟。超时(暂停)时间超过此指定时间的会话将被终止。音频和live会话不在此范围"
+msgstr "以分钟为单位。终止所有暂停时间超过指定时长的会话。纯音频会话和直播会话除外。"
 
 msgid "Verbose logging is only useful to debug specific issues and should only be enabled if requested by support staff."
 msgstr "详尽的日志记录只对调试特定问题有用，只有在支持人员要求时才应启用。"
@@ -3244,7 +3244,7 @@ msgid "What's On Now"
 msgstr "正在播出"
 
 msgid "When changes to library folders are detected, only scan the folder that changed."
-msgstr "当检测到库文件夹有更改时，只扫描被更改的文件夹。"
+msgstr "在检测到资料库文件夹的变更时，只扫描发生变更的文件夹。"
 
 msgid "When enabled, richer information is downloaded for some shows and movies. This makes guide refreshing slower."
 msgstr "启用后，将为某些节目和电影下载更丰富的信息。这会使指南刷新变慢。"
@@ -3303,7 +3303,7 @@ msgid "You have too many active streams."
 msgstr "您目前活动的串流太多。"
 
 msgid "Your library will be updated automatically when changes to library folders are detected."
-msgstr "当检测到您的库有更改时，库将会自动被更新。"
+msgstr "在检测到资料库文件夹的变更时，您的资料库将自动更新。"
 
 msgid "[Experimental] This can save disk space and improve compatibility. Converting requires a fast CPU."
 msgstr "[实验]这可以节省磁盘空间并提高兼容性。转换需要高性能CPU。"
@@ -3547,4 +3547,16 @@ msgstr "生成语音活动数据"
 
 msgid "Detects voice activity data for movies and episodes. This is used to help syncronize subtitles to the audio track. This detection can be toggled per-library by editing the individual library and navigating to the advanced section."
 msgstr "检测电影和剧集中的语音活动数据，用于帮助同步字幕和音轨。您可以在每个媒体库的高级设置中单独启用或关闭此功能。"
+
+msgid "Detecting Voice Activity"
+msgstr "正在检测语音活动"
+
+msgid "Unwatched Videos"
+msgstr "未观看的视频"
+
+msgid "Recently Watched Videos"
+msgstr "最近观看的视频"
+
+msgid "Updating Metadata"
+msgstr "正在更新元数据"
 
