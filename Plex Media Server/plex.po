@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Chinese Language Pack for Plex\n"
-"PO-Revision-Date: 2024-09-29 18:00\n"
+"PO-Revision-Date: 2025-01-04 14:52\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -3559,4 +3559,7 @@ msgstr "最近观看的视频"
 
 msgid "Updating Metadata"
 msgstr "正在更新元数据"
+
+msgid "Folder Location"
+msgstr "文件夹位置"
 
