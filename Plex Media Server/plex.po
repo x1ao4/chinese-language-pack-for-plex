@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Chinese Language Pack for Plex\n"
-"PO-Revision-Date: 2025-01-04 14:52\n"
+"PO-Revision-Date: 2025-02-10 16:15\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -3562,4 +3562,16 @@ msgstr "正在更新元数据"
 
 msgid "Folder Location"
 msgstr "文件夹位置"
+
+msgid "Enable HEVC video Encoding (experimental)"
+msgstr "启用 HEVC 视频编码（实验性）"
+
+msgid "Enable transcoding using the HEVC codec if it is supported by the client."
+msgstr "如果客户端支持，启用 HEVC 编解码器进行转码。"
+
+msgid "Enable HEVC Optimization (experimental)"
+msgstr "启用 HEVC 优化（实验性）"
+
+msgid "If available, enable use of HEVC while optimizing your media."
+msgstr "如果可用，在优化媒体时启用 HEVC 编解码器。"
 
