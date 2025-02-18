@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Chinese Language Pack for Plex\n"
-"PO-Revision-Date: 2025-02-10 16:15\n"
+"PO-Revision-Date: 2025-02-18 15:32\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1719,7 +1719,7 @@ msgid "Maximum number of Continue Watching items which will appear."
 msgstr "继续观看中显示项目的数量"
 
 msgid "Maximum number of simultaneous streams each user is allowed when not on the local network."
-msgstr "不在本地网络上时，每个用户同时允许的最大串流数。"
+msgstr "当用户不在本地网络时，允许同时进行串流的最大数量。"
 
 msgid "Maximum simultaneous video transcode"
 msgstr "最大同时视频转码数量"
@@ -2327,7 +2327,7 @@ msgid "Remote failed to transcode media"
 msgstr "远程服务器转码媒体失败"
 
 msgid "Remote streams allowed per user"
-msgstr "每个远程用户允许的码率"
+msgstr "允许每个用户进行远程串流的最大数量"
 
 msgid "Remove old bundles every week"
 msgstr "每周删除旧的捆绑包"
@@ -3574,4 +3574,10 @@ msgstr "启用 HEVC 优化（实验性）"
 
 msgid "If available, enable use of HEVC while optimizing your media."
 msgstr "如果可用，在优化媒体时启用 HEVC 编解码器。"
+
+msgid "Tonemapping Algorithm"
+msgstr "色调映射算法"
+
+msgid "Algorithm to use when performing HDR tone mapping."
+msgstr "执行 HDR 色调映射时使用的算法。"
 
