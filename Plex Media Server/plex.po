@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Chinese Language Pack for Plex\n"
-"PO-Revision-Date: 2025-02-18 15:32\n"
+"PO-Revision-Date: 2025-03-04 04:16\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -985,10 +985,10 @@ msgid "Detecting intros"
 msgstr "正在检测片头"
 
 msgid "Detects movie and episode end credits."
-msgstr "检测电影和电视节目的片尾。"
+msgstr "检测电影和剧集的片尾。"
 
 msgid "Detects show intros, exposing the 'Skip Intro' button in clients."
-msgstr "检测电视节目的片头，并在客户端中显示 “跳过片头” 。"
+msgstr "检测剧集的片头，并在客户端中显示 “跳过片头” 。"
 
 msgid "Device"
 msgstr "设备"
@@ -3580,4 +3580,10 @@ msgstr "色调映射算法"
 
 msgid "Algorithm to use when performing HDR tone mapping."
 msgstr "执行 HDR 色调映射时使用的算法。"
+
+msgid "Generate ad video markers"
+msgstr "生成广告标记"
+
+msgid "Detects movie and episode ads."
+msgstr "检测电影和剧集中的广告。"
 
