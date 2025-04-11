@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Chinese Language Pack for Plex\n"
-"PO-Revision-Date: 2025-03-04 04:16\n"
+"PO-Revision-Date: 2025-04-11 13:04\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -3586,4 +3586,16 @@ msgstr "生成广告标记"
 
 msgid "Detects movie and episode ads."
 msgstr "检测电影和剧集中的广告。"
+
+msgid "Transcode Quality"
+msgstr "转码质量"
+
+msgid "Always"
+msgstr "始终"
+
+msgid "Allow matching to explicit content"
+msgstr "允许匹配限制级内容"
+
+msgid "Allow matching to adult/pornographic titles and returning adult titles in fix match results. This may hide the title from some features like your Watchlist."
+msgstr "允许匹配成人/色情内容，并在 “修正匹配” 结果中返回成人内容。某些功能（如 “关注列表”）可能不会显示这些内容。"
 
