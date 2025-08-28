@@ -2993,5 +2993,10 @@
   "Your review does not meet our minimum requirements": "您的评论不符合我们的最低要求",
   "{airingsCount} airings": "{airingsCount} 个节目正在播出",
   "{author}'s Review": "{author} 的评论",
-  "{count} Reactions": "{count} 个反馈"
+  "{count} Reactions": "{count} 个反馈",
+  "Keep Downloads": "保留下载内容",
+  "Otherwise, your downloaded content will remain visible and accessible to any account that logs in on this device.": "若不删除，已下载的内容将对任何在此设备上登录的账号保持可见和可用。",
+  "This link isn't available or you don't have permission to view it": "无法访问此链接，您可能没有权限查看。",
+  "Featured Videos": "相关视频",
+  "Before signing out, would you like to delete all of your downloaded content?": "在退出前，是否要删除所有已下载的内容？"
 }
