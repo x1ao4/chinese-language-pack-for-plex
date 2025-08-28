@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Chinese Language Pack for Plex\n"
-"PO-Revision-Date: 2025-04-11 13:04\n"
+"PO-Revision-Date: 2025-08-28 09:43\n"
 "Last-Translator: x1ao4, 2024\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -662,7 +662,7 @@ msgid "Categories"
 msgstr "分类"
 
 msgid "Certification Country"
-msgstr "认证国家/地区"
+msgstr "分级国家/地区"
 
 msgid "Channel"
 msgstr "频道"
@@ -741,7 +741,7 @@ msgid "Color Transfer Characteristics"
 msgstr "色彩转移特性"
 
 msgid "Comma separated list of IP addresses or IP/netmask entries for networks that are allowed to access Plex Media Server without logging in. When the server is signed out and this value is set, only localhost and addresses on this list will be allowed."
-msgstr "无需登录即可访问 Plex 媒体服务器的网络的 IP 地址或 IP/子网掩码条目列表，以逗号分隔。在注销服务器并设置该值时，仅此列表中的本地主机和地址获得访问许可。"
+msgstr "无需登录即可访问 Plex 媒体服务器的网络 IP 地址或 IP/子网掩码条目，以逗号分隔。当服务器已登出且设置了该值时，只有本地地址和此列表中的地址可以访问。"
 
 msgid "Comma separated list of IP addresses or IP/netmask entries for networks that will be considered to be on the local network when enforcing bandwidth restrictions. If set, all other IP addresses will be considered to be on the external network and will be subject to external network bandwidth restrictions. If left blank, only the server's subnet is considered to be on the local network."
 msgstr "强制带宽限制时，列表内的 IP 地址或 IP/子网掩码将会被视为本地网络，以逗号分隔。如果设定，则所有其他 IP 地址将被视为外部网络并且将受外网带宽限制约束。如果留空，则仅服务器所处的子网被视为本地网络。"
@@ -1471,7 +1471,7 @@ msgid "Home Videos"
 msgstr "家庭视频"
 
 msgid "How the episodes are named on disk."
-msgstr "按照哪种方式对该节目的剧集文件命名。"
+msgstr "如何对节目剧集的文件命名。"
 
 msgid "How the items in the collection are displayed."
 msgstr "如何显示合集中的项目。"
@@ -1480,13 +1480,13 @@ msgid "How to display collections."
 msgstr "如何显示合集。"
 
 msgid "How to sort the albums for an artist."
-msgstr "艺人专辑的排序方式。"
+msgstr "如何对艺人专辑的显示排序。"
 
 msgid "How to sort the episodes for this show."
-msgstr "按照哪种方式对该节目的剧集显示排序。"
+msgstr "如何对节目剧集的显示排序。"
 
 msgid "How to sort the items in the collection."
-msgstr "如何对合集中的项目进行排序。"
+msgstr "如何对合集项目的显示排序。"
 
 msgid "ISO"
 msgstr "ISO"
@@ -2345,7 +2345,7 @@ msgid "Resolution"
 msgstr "分辨率"
 
 msgid "Restrict where content from this library should appear."
-msgstr "限制本媒体库中内容的显示位置。"
+msgstr "限制该资料库中内容的显示位置。"
 
 msgid "Run a partial scan when changes are detected"
 msgstr "在检测到变更时执行局部扫描"
@@ -2827,7 +2827,7 @@ msgid "The media version already exists"
 msgstr "媒体版本已存在"
 
 msgid "The network interface local clients will use to connect."
-msgstr "本地客户端将使用网络接口进行连接。"
+msgstr "用于本地客户端连接的网络接口。"
 
 msgid "The owner of the server will be allowed to delete media files from disk."
 msgstr "服务器的所有者可以从磁盘中删除媒体文件。"
@@ -2953,7 +2953,7 @@ msgid "This name will be used to identify this media server to other computers o
 msgstr "此名字将被用于在您的网络上与其他电脑分辨该媒体服务器。如果您不填写名字，则将使用您的电脑名。"
 
 msgid "This will influence which content rating system is used. Changing this setting will require refreshing the metadata for the changes to take effect."
-msgstr "这将影响使用哪个内容评级系统。更改此设置将需要刷新元数据才能使更改生效。"
+msgstr "此设置会决定使用哪种内容分级系统。修改后，需要刷新元数据才能生效。"
 
 msgid "Time Travel Radio"
 msgstr "时间旅行电台"
@@ -3598,4 +3598,43 @@ msgstr "允许匹配限制级内容"
 
 msgid "Allow matching to adult/pornographic titles and returning adult titles in fix match results. This may hide the title from some features like your Watchlist."
 msgstr "允许匹配成人/色情内容，并在 “修正匹配” 结果中返回成人内容。某些功能（如 “关注列表”）可能不会显示这些内容。"
+
+msgid "How to sort the episodes for shows."
+msgstr "如何对节目剧集的显示排序。"
+
+msgid "How to sort the albums for artists."
+msgstr "如何对艺人专辑的显示排序。"
+
+msgid "Client Network"
+msgstr "客户端网络"
+
+msgid "Network to advertise to clients."
+msgstr "向客户端提供的网络类型。"
+
+msgid "Domain name to be published to plex.tv using your mapped port; must match a name from the custom certificate file. [IPv4 Only]"
+msgstr "通过映射端口向 plex.tv 提供的域名，必须与自定义证书文件中的域名一致。（仅限 IPv4）"
+
+msgid "A comma-separated list of URLs (http or https) which are published up to plex.tv for server discovery. IPv6 addresses must specify a port."
+msgstr "用于服务器发现的 URL 列表（以逗号分隔，支持 http 或 https），会向 plex.tv 注册以便客户端访问。IPv6 地址需指定端口。"
+
+msgid "Downloads temporary directory"
+msgstr "下载缓存目录"
+
+msgid "Directory to use when storing transcoded downloads until the client downloads them."
+msgstr "用于存放转码下载文件的缓存目录，文件将在客户端下载完成后自动清理。"
+
+msgid "Maximum simultaneous background video transcode"
+msgstr "最大同时后台视频转码数量"
+
+msgid "Limit the number of simultaneous video transcode your server can utilize for the optimizer and downloads"
+msgstr "限制服务器在优化和下载视频的过程中同时进行视频转码的最大数量。"
+
+msgid "IPv4 Only"
+msgstr "仅使用 IPv4"
+
+msgid "IPv6 Only"
+msgstr "仅使用 IPv6"
+
+msgid "IPv4 and IPv6"
+msgstr "同时使用 IPv4 和 IPv6"
 
